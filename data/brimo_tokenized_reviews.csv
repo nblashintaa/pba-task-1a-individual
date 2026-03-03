@@ -1,0 +1,501 @@
+user,rating,review,date,clean_review,tokens
+Jahur Huri,5,mantap,2026-03-02 18:41:47,mantap,['mantap']
+Ronal Rigen,5,sangat bagus sekali,2026-03-02 18:38:02,sangat bagus sekali,"['sangat', 'bagus', 'sekali']"
+Desi Gusrini,1,paling buruk pelayanan .nelpon call center buat keluhan cuma ngabisin pulsa di angkat kaga.keadaan genting kita mana sempet laporan ke cabang bri .emg gitu ya kalau bank yg punya negara selagu lagu gue ....,2026-03-02 18:37:45,paling buruk pelayanan nelpon call center buat keluhan cuma ngabisin pulsa di angkat kagakeadaan genting kita mana sempet laporan ke cabang bri emg gitu ya kalau bank yg punya negara selagu lagu gue ,"['paling', 'buruk', 'pelayanan', 'nelpon', 'call', 'center', 'buat', 'keluhan', 'cuma', 'ngabisin', 'pulsa', 'di', 'angkat', 'kagakeadaan', 'genting', 'kita', 'mana', 'sempet', 'laporan', 'ke', 'cabang', 'bri', 'emg', 'gitu', 'ya', 'kalau', 'bank', 'yg', 'punya', 'negara', 'selagu', 'lagu', 'gue']"
+neny auna,5,saya sangat terbantu dgn BRimo,2026-03-02 18:37:14,saya sangat terbantu dgn brimo,"['saya', 'sangat', 'terbantu', 'dgn', 'brimo']"
+Andi Tamsil,5,perfect,2026-03-02 18:35:40,perfect,['perfect']
+Juriana Ana,5,maaf sering nga bisa di buka..harus instal ulang baru bisa..,2026-03-02 18:34:52,maaf sering nga bisa di bukaharus instal ulang baru bisa,"['maaf', 'sering', 'nga', 'bisa', 'di', 'bukaharus', 'instal', 'ulang', 'baru', 'bisa']"
+Dhy Febriansyh,5,👍,2026-03-02 18:34:35,,[]
+Boli Husen,5,sangat mudah menggunaka brimo,2026-03-02 18:33:37,sangat mudah menggunaka brimo,"['sangat', 'mudah', 'menggunaka', 'brimo']"
+Isma Dayanti,5,"sangat bagus pokoknya, dan gampang di gunakan, top dan keren sekali",2026-03-02 18:33:36,sangat bagus pokoknya dan gampang di gunakan top dan keren sekali,"['sangat', 'bagus', 'pokoknya', 'dan', 'gampang', 'di', 'gunakan', 'top', 'dan', 'keren', 'sekali']"
+Sulhaji Grab,5,sdh banyak membantu transaksi,2026-03-02 18:33:21,sdh banyak membantu transaksi,"['sdh', 'banyak', 'membantu', 'transaksi']"
+jamaludin magola,5,pokoknya sngat membantu dan bagus semua serba bisa dan serba gampang makasi Brimo BANK BRI,2026-03-02 18:27:56,pokoknya sngat membantu dan bagus semua serba bisa dan serba gampang makasi brimo bank bri,"['pokoknya', 'sngat', 'membantu', 'dan', 'bagus', 'semua', 'serba', 'bisa', 'dan', 'serba', 'gampang', 'makasi', 'brimo', 'bank', 'bri']"
+olle rockavanka,5,sangat cocok untuk saya,2026-03-02 18:27:04,sangat cocok untuk saya,"['sangat', 'cocok', 'untuk', 'saya']"
+Albert Franjaya,5,Mantap,2026-03-02 18:26:03,mantap,['mantap']
+Muhamad Ghozali,3,ini kok ga bisa tf ke nomor dana kenapa ya,2026-03-02 18:24:54,ini kok ga bisa tf ke nomor dana kenapa ya,"['ini', 'kok', 'ga', 'bisa', 'tf', 'ke', 'nomor', 'dana', 'kenapa', 'ya']"
+lukma argantara,5,mantap,2026-03-02 18:18:56,mantap,['mantap']
+Tugiran Roy,5,sangat bermanfaat dalam bertransaksi,2026-03-02 18:15:13,sangat bermanfaat dalam bertransaksi,"['sangat', 'bermanfaat', 'dalam', 'bertransaksi']"
+Rika Malang2025,5,sangat mempermudah proses para pelanggan setia BRI semoga jaya selalu 👏,2026-03-02 18:12:31,sangat mempermudah proses para pelanggan setia bri semoga jaya selalu ,"['sangat', 'mempermudah', 'proses', 'para', 'pelanggan', 'setia', 'bri', 'semoga', 'jaya', 'selalu']"
+Lia Amalia,5,"Halo kak saya pengguna BRIMO.ini pertama kalinya saya tidak bisa mengakses akun saya karna ketika saya masuk ke aplikasi BRIMO hanya menampilkan warna biru tetapi setelah beberapa saat layar menjafi warna putih polos,saya sudah ke penagaturan aplikasi BRIMO dan sudah clear cache,dan sudah saya update aplikasinya,saya sudah mengirimkan email keluhan saya tapi belum ada respon mohon bantuan nya kak.",2026-03-02 18:07:47,halo kak saya pengguna brimoini pertama kalinya saya tidak bisa mengakses akun saya karna ketika saya masuk ke aplikasi brimo hanya menampilkan warna biru tetapi setelah beberapa saat layar menjafi warna putih polossaya sudah ke penagaturan aplikasi brimo dan sudah clear cachedan sudah saya update aplikasinyasaya sudah mengirimkan email keluhan saya tapi belum ada respon mohon bantuan nya kak,"['halo', 'kak', 'saya', 'pengguna', 'brimoini', 'pertama', 'kalinya', 'saya', 'tidak', 'bisa', 'mengakses', 'akun', 'saya', 'karna', 'ketika', 'saya', 'masuk', 'ke', 'aplikasi', 'brimo', 'hanya', 'menampilkan', 'warna', 'biru', 'tetapi', 'setelah', 'beberapa', 'saat', 'layar', 'menjafi', 'warna', 'putih', 'polossaya', 'sudah', 'ke', 'penagaturan', 'aplikasi', 'brimo', 'dan', 'sudah', 'clear', 'cachedan', 'sudah', 'saya', 'update', 'aplikasinyasaya', 'sudah', 'mengirimkan', 'email', 'keluhan', 'saya', 'tapi', 'belum', 'ada', 'respon', 'mohon', 'bantuan', 'nya', 'kak']"
+boysaka goodgamer,5,Good,2026-03-02 18:07:39,good,['good']
+Mang Ded,5,layanan oke,2026-03-02 18:02:37,layanan oke,"['layanan', 'oke']"
+taufik jekat,5,sangat membantu sekali,2026-03-02 18:00:03,sangat membantu sekali,"['sangat', 'membantu', 'sekali']"
+Kunar Yosi,5,sangat memudahkan,2026-03-02 17:53:29,sangat memudahkan,"['sangat', 'memudahkan']"
+Syamsul Bahri,5,mantap,2026-03-02 17:52:56,mantap,['mantap']
+martin airlen,5,Lumayan Bagus. cuma sy blm bisa kirim dari brimo le dana.,2026-03-02 17:52:42,lumayan bagus cuma sy blm bisa kirim dari brimo le dana,"['lumayan', 'bagus', 'cuma', 'sy', 'blm', 'bisa', 'kirim', 'dari', 'brimo', 'le', 'dana']"
+Khennel Khen,5,sangat membantu,2026-03-02 17:52:03,sangat membantu,"['sangat', 'membantu']"
+Affi Yunus,2,"notifikasi uang masuk dan keluar itu lama bgt kenapa ya, belum lagi buka aplikasi nunggu 4-5 detik baru bisa masuk ke aplikasi tolong diperbaiki performa apknya biar gak merugikan nasabah.",2026-03-02 17:46:35,notifikasi uang masuk dan keluar itu lama bgt kenapa ya belum lagi buka aplikasi nunggu  detik baru bisa masuk ke aplikasi tolong diperbaiki performa apknya biar gak merugikan nasabah,"['notifikasi', 'uang', 'masuk', 'dan', 'keluar', 'itu', 'lama', 'bgt', 'kenapa', 'ya', 'belum', 'lagi', 'buka', 'aplikasi', 'nunggu', 'detik', 'baru', 'bisa', 'masuk', 'ke', 'aplikasi', 'tolong', 'diperbaiki', 'performa', 'apknya', 'biar', 'gak', 'merugikan', 'nasabah']"
+septiyandwi ningrum,5,sejauh ini good,2026-03-02 17:45:10,sejauh ini good,"['sejauh', 'ini', 'good']"
+Mamo Azza,5,errorr terus,2026-03-02 17:41:16,errorr terus,"['errorr', 'terus']"
+Mendi Priyono,5,bahmgus,2026-03-02 17:40:37,bahmgus,['bahmgus']
+Azhari aziz Siddiq (Parto),2,sekian kalinya brimo cuma muncul layar putih yg harus bikin saya kesulitan dalam transaksi. gimana dongg!,2026-03-02 17:39:41,sekian kalinya brimo cuma muncul layar putih yg harus bikin saya kesulitan dalam transaksi gimana dongg,"['sekian', 'kalinya', 'brimo', 'cuma', 'muncul', 'layar', 'putih', 'yg', 'harus', 'bikin', 'saya', 'kesulitan', 'dalam', 'transaksi', 'gimana', 'dongg']"
+Rici Alfauza,5,mantap,2026-03-02 17:38:29,mantap,['mantap']
+Muhamad Rifan,5,dgn brimo semua serba mudah,2026-03-02 17:38:18,dgn brimo semua serba mudah,"['dgn', 'brimo', 'semua', 'serba', 'mudah']"
+Gunawan Obos,5,mantep,2026-03-02 17:35:30,mantep,['mantep']
+Susi Susanti,5,mau transfer dan cek saldo lebih mudah kalau punya aplikasi brimo,2026-03-02 17:34:00,mau transfer dan cek saldo lebih mudah kalau punya aplikasi brimo,"['mau', 'transfer', 'dan', 'cek', 'saldo', 'lebih', 'mudah', 'kalau', 'punya', 'aplikasi', 'brimo']"
+Otniel Manullang,5,membantu banget,2026-03-02 17:33:15,membantu banget,"['membantu', 'banget']"
+muhammad taufiqi,5,cukup membantu,2026-03-02 17:30:31,cukup membantu,"['cukup', 'membantu']"
+Moh idza Nadhori,5,ok,2026-03-02 17:29:47,ok,['ok']
+Ganto Leo,5,entut,2026-03-02 17:26:56,entut,['entut']
+Yustina Kolo,5,terbaik,2026-03-02 17:19:11,terbaik,['terbaik']
+Sar Manto,5,mudah digunakan,2026-03-02 17:10:11,mudah digunakan,"['mudah', 'digunakan']"
+Gajah Mada,5,Mudah Dan Menguntungkan,2026-03-02 17:06:57,mudah dan menguntungkan,"['mudah', 'dan', 'menguntungkan']"
+Alwi Ikhwan14,3,"maaf,mau tanya kenapa brimo punya saya sekarang setiap login selalu minta verifikasi, entah itu pake password atau sidik jari selalu minta verifikasi masukan OTP ,NIK SMA Selfi dulu jadinya ribet, padahal password+pin udah benar... terimakasih",2026-03-02 17:05:35,maafmau tanya kenapa brimo punya saya sekarang setiap login selalu minta verifikasi entah itu pake password atau sidik jari selalu minta verifikasi masukan otp nik sma selfi dulu jadinya ribet padahal passwordpin udah benar terimakasih,"['maafmau', 'tanya', 'kenapa', 'brimo', 'punya', 'saya', 'sekarang', 'setiap', 'login', 'selalu', 'minta', 'verifikasi', 'entah', 'itu', 'pake', 'password', 'atau', 'sidik', 'jari', 'selalu', 'minta', 'verifikasi', 'masukan', 'otp', 'nik', 'sma', 'selfi', 'dulu', 'jadinya', 'ribet', 'padahal', 'passwordpin', 'udah', 'benar', 'terimakasih']"
+Arwin Effendi,5,mantap,2026-03-02 17:02:48,mantap,['mantap']
+Sopia Duri,2,"lama-lama aplikasi brimo kayak B2. susah kali buat login, padahal sudah di update. giliran mau login layar HP malah memutih seperti sedang eror. tolong lah bos di perbaiki lagi sistem nya.",2026-03-02 17:02:19,lamalama aplikasi brimo kayak b susah kali buat login padahal sudah di update giliran mau login layar hp malah memutih seperti sedang eror tolong lah bos di perbaiki lagi sistem nya,"['lamalama', 'aplikasi', 'brimo', 'kayak', 'b', 'susah', 'kali', 'buat', 'login', 'padahal', 'sudah', 'di', 'update', 'giliran', 'mau', 'login', 'layar', 'hp', 'malah', 'memutih', 'seperti', 'sedang', 'eror', 'tolong', 'lah', 'bos', 'di', 'perbaiki', 'lagi', 'sistem', 'nya']"
+Yulinda Qori,4,mudah digunakan,2026-03-02 17:01:53,mudah digunakan,"['mudah', 'digunakan']"
+Khaerul Saleh,5,Sangat membantu didalam bertransaksi,2026-03-02 17:00:56,sangat membantu didalam bertransaksi,"['sangat', 'membantu', 'didalam', 'bertransaksi']"
+Alex Alex,4,baik👍,2026-03-02 16:53:17,baik,['baik']
+Widhi Guntur,5,mantap,2026-03-02 16:52:19,mantap,['mantap']
+Gege Ramadhan01,2,"setiap akan login menggunakan fingerprint selalu ga bisa, padahal sudah aktif fitur fingerprintnya. masa setiap akan login selalu verifikasi ktp & selfi terus.",2026-03-02 16:51:42,setiap akan login menggunakan fingerprint selalu ga bisa padahal sudah aktif fitur fingerprintnya masa setiap akan login selalu verifikasi ktp  selfi terus,"['setiap', 'akan', 'login', 'menggunakan', 'fingerprint', 'selalu', 'ga', 'bisa', 'padahal', 'sudah', 'aktif', 'fitur', 'fingerprintnya', 'masa', 'setiap', 'akan', 'login', 'selalu', 'verifikasi', 'ktp', 'selfi', 'terus']"
+Julius J DF,5,terbaik..👍👍👍,2026-03-02 16:50:20,terbaik,['terbaik']
+Aimar Radinka,5,gampang banget,2026-03-02 16:50:18,gampang banget,"['gampang', 'banget']"
+Pandapotan nasution,5,good,2026-03-02 16:49:09,good,['good']
+Siti Sundari,5,matappp,2026-03-02 16:45:32,matappp,['matappp']
+Kent Hilk,5,siip joss,2026-03-02 16:44:11,siip joss,"['siip', 'joss']"
+Riki upik,2,"kenapa stelah login,trs ditinggal keluar mau masuk lagi udah g bisa",2026-03-02 16:43:53,kenapa stelah logintrs ditinggal keluar mau masuk lagi udah g bisa,"['kenapa', 'stelah', 'logintrs', 'ditinggal', 'keluar', 'mau', 'masuk', 'lagi', 'udah', 'g', 'bisa']"
+Wnh Nh,5,"hallo ka, saya pengguna brimo, selama ini berjalan lancar, namun sekarang ini saya tidak bisa log in, dan selalu keluar sendiri",2026-03-02 16:41:24,hallo ka saya pengguna brimo selama ini berjalan lancar namun sekarang ini saya tidak bisa log in dan selalu keluar sendiri,"['hallo', 'ka', 'saya', 'pengguna', 'brimo', 'selama', 'ini', 'berjalan', 'lancar', 'namun', 'sekarang', 'ini', 'saya', 'tidak', 'bisa', 'log', 'in', 'dan', 'selalu', 'keluar', 'sendiri']"
+Aljun Simon Parore,5,Menarik,2026-03-02 16:41:15,menarik,['menarik']
+Jun Panyalai,5,baik sekali,2026-03-02 16:40:53,baik sekali,"['baik', 'sekali']"
+Sulaeman Kamaye,1,"apk nya tolong diperbaiki lagi sistemnya, daftar tapi bolakbalik kehalaman utama udah 5 kali coba tetap sama aja bikin emosi😊",2026-03-02 16:34:39,apk nya tolong diperbaiki lagi sistemnya daftar tapi bolakbalik kehalaman utama udah  kali coba tetap sama aja bikin emosi,"['apk', 'nya', 'tolong', 'diperbaiki', 'lagi', 'sistemnya', 'daftar', 'tapi', 'bolakbalik', 'kehalaman', 'utama', 'udah', 'kali', 'coba', 'tetap', 'sama', 'aja', 'bikin', 'emosi']"
+Hilman Nurdiansyah,5,sangat bagus,2026-03-02 16:33:29,sangat bagus,"['sangat', 'bagus']"
+Arsya ?,4,baguss,2026-03-02 16:31:52,baguss,['baguss']
+Riki Ustara,5,mudah dan cepat,2026-03-02 16:29:25,mudah dan cepat,"['mudah', 'dan', 'cepat']"
+Rudyk Ermawan,5,mantap,2026-03-02 16:28:30,mantap,['mantap']
+Keneth Saycond,2,baeu aja bikin akun.. eh udah di blokir.. kapan gw masuk nya .. Trus di bilang 6pasword salah mulu lagi. mana sms 6gak masuk2,2026-03-02 16:27:17,baeu aja bikin akun eh udah di blokir kapan gw masuk nya  trus di bilang pasword salah mulu lagi mana sms gak masuk,"['baeu', 'aja', 'bikin', 'akun', 'eh', 'udah', 'di', 'blokir', 'kapan', 'gw', 'masuk', 'nya', 'trus', 'di', 'bilang', 'pasword', 'salah', 'mulu', 'lagi', 'mana', 'sms', 'gak', 'masuk']"
+A.M.Shafana BTC,5,oke,2026-03-02 16:27:11,oke,['oke']
+newbie RC,5,brimo saya kok tidak bisa login ya,2026-03-02 16:27:05,brimo saya kok tidak bisa login ya,"['brimo', 'saya', 'kok', 'tidak', 'bisa', 'login', 'ya']"
+Triss Rayanzahir,1,makin ngk jelas ini apk bukan nya tambah bagus malah tambah bikin pusing masa harus veripikasi mulu tiap mau masuk lgi,2026-03-02 16:26:50,makin ngk jelas ini apk bukan nya tambah bagus malah tambah bikin pusing masa harus veripikasi mulu tiap mau masuk lgi,"['makin', 'ngk', 'jelas', 'ini', 'apk', 'bukan', 'nya', 'tambah', 'bagus', 'malah', 'tambah', 'bikin', 'pusing', 'masa', 'harus', 'veripikasi', 'mulu', 'tiap', 'mau', 'masuk', 'lgi']"
+FATMA WATI,5,that simple🫰,2026-03-02 16:21:19,that simple,"['that', 'simple']"
+Armin Malik,4,"bagus sangat membantu tapi sering eror gak bisa masuk saat,mohon caranya supaya gak eror lagi bang",2026-03-02 16:18:38,bagus sangat membantu tapi sering eror gak bisa masuk saatmohon caranya supaya gak eror lagi bang,"['bagus', 'sangat', 'membantu', 'tapi', 'sering', 'eror', 'gak', 'bisa', 'masuk', 'saatmohon', 'caranya', 'supaya', 'gak', 'eror', 'lagi', 'bang']"
+Sang Putu Dirga,4,"brimo memudahkan bertransaksi, namun saya pernah punya pengalaman menyedihkan yaitu tabungan saya hilang, diambil via ATM setiap dini hari, di hari ke 5 saya baru menyadarinya, hingga tabungan berkurang 40an juta, mungkin ini kelemahannya, untuk selanjutnya dpt diproteksi, terima kasih",2026-03-02 16:16:55,brimo memudahkan bertransaksi namun saya pernah punya pengalaman menyedihkan yaitu tabungan saya hilang diambil via atm setiap dini hari di hari ke  saya baru menyadarinya hingga tabungan berkurang an juta mungkin ini kelemahannya untuk selanjutnya dpt diproteksi terima kasih,"['brimo', 'memudahkan', 'bertransaksi', 'namun', 'saya', 'pernah', 'punya', 'pengalaman', 'menyedihkan', 'yaitu', 'tabungan', 'saya', 'hilang', 'diambil', 'via', 'atm', 'setiap', 'dini', 'hari', 'di', 'hari', 'ke', 'saya', 'baru', 'menyadarinya', 'hingga', 'tabungan', 'berkurang', 'an', 'juta', 'mungkin', 'ini', 'kelemahannya', 'untuk', 'selanjutnya', 'dpt', 'diproteksi', 'terima', 'kasih']"
+ari sembako,1,APL buruk kok jadi susah gini ya stiap kali dibuka harus login mulu setelah login bisa gitu lagi harus unistal dan instal lagi haduh melelahkan,2026-03-02 16:16:04,apl buruk kok jadi susah gini ya stiap kali dibuka harus login mulu setelah login bisa gitu lagi harus unistal dan instal lagi haduh melelahkan,"['apl', 'buruk', 'kok', 'jadi', 'susah', 'gini', 'ya', 'stiap', 'kali', 'dibuka', 'harus', 'login', 'mulu', 'setelah', 'login', 'bisa', 'gitu', 'lagi', 'harus', 'unistal', 'dan', 'instal', 'lagi', 'haduh', 'melelahkan']"
+Dinda Khumaira,1,"brimo makin kesini makin ancur kendala nya sama layar biru d tnggu lama lngsng blank layar putih, masa harus tiap verifikasi terus lama kelamaan pada pindah GK bkl pke brimo klo trs terusan kaya gini",2026-03-02 16:11:35,brimo makin kesini makin ancur kendala nya sama layar biru d tnggu lama lngsng blank layar putih masa harus tiap verifikasi terus lama kelamaan pada pindah gk bkl pke brimo klo trs terusan kaya gini,"['brimo', 'makin', 'kesini', 'makin', 'ancur', 'kendala', 'nya', 'sama', 'layar', 'biru', 'd', 'tnggu', 'lama', 'lngsng', 'blank', 'layar', 'putih', 'masa', 'harus', 'tiap', 'verifikasi', 'terus', 'lama', 'kelamaan', 'pada', 'pindah', 'gk', 'bkl', 'pke', 'brimo', 'klo', 'trs', 'terusan', 'kaya', 'gini']"
+Dani Ardi,5,mantap,2026-03-02 16:07:21,mantap,['mantap']
+stkiah ziii,1,Tolong dong benerin aplikasinya ini udah yg kesekian kalinya aplikasi ketika log in hanya blaknk warna putih. tolong perbaiki secepat mungkin!!!,2026-03-02 16:05:28,tolong dong benerin aplikasinya ini udah yg kesekian kalinya aplikasi ketika log in hanya blaknk warna putih tolong perbaiki secepat mungkin,"['tolong', 'dong', 'benerin', 'aplikasinya', 'ini', 'udah', 'yg', 'kesekian', 'kalinya', 'aplikasi', 'ketika', 'log', 'in', 'hanya', 'blaknk', 'warna', 'putih', 'tolong', 'perbaiki', 'secepat', 'mungkin']"
+Rasya12 Pratama,5,ok,2026-03-02 16:03:59,ok,['ok']
+Capatu Jordan,5,Mantap,2026-03-02 15:58:36,mantap,['mantap']
+Bayu Sastrawan,5,"sangat lancar, apk ringan.",2026-03-02 15:58:07,sangat lancar apk ringan,"['sangat', 'lancar', 'apk', 'ringan']"
+Korban Janda,5,mempermudah,2026-03-02 15:56:17,mempermudah,['mempermudah']
+aris darmawan,5,mantap,2026-03-02 15:54:10,mantap,['mantap']
+Kadek Nopa Sumertayasa,5,"bagus sekali, mempermudah pembayaran tagihan listrik",2026-03-02 15:51:32,bagus sekali mempermudah pembayaran tagihan listrik,"['bagus', 'sekali', 'mempermudah', 'pembayaran', 'tagihan', 'listrik']"
+Ayu Puspita Sari,5,bagus,2026-03-02 15:51:31,bagus,['bagus']
+faidzin silas,5,top markotop tuntas sampai ubun ubun,2026-03-02 15:50:46,top markotop tuntas sampai ubun ubun,"['top', 'markotop', 'tuntas', 'sampai', 'ubun', 'ubun']"
+Rosdiana azis,5,memudahkan,2026-03-02 15:49:47,memudahkan,['memudahkan']
+Deran Duli,5,ok,2026-03-02 15:46:15,ok,['ok']
+ALUNG SADEWA,5,memakai aplikasi brimo mudah & aman untuk d gunakan,2026-03-02 15:44:22,memakai aplikasi brimo mudah  aman untuk d gunakan,"['memakai', 'aplikasi', 'brimo', 'mudah', 'aman', 'untuk', 'd', 'gunakan']"
+Tipa Tipa,3,sangat puas,2026-03-02 15:35:11,sangat puas,"['sangat', 'puas']"
+Asep Somantri,5,sangat puas,2026-03-02 15:32:52,sangat puas,"['sangat', 'puas']"
+koko meti17,5,mempermudah untuk bertransaksi,2026-03-02 15:32:36,mempermudah untuk bertransaksi,"['mempermudah', 'untuk', 'bertransaksi']"
+Warta Tunggal,4,sering lelet masuk ke server,2026-03-02 15:24:52,sering lelet masuk ke server,"['sering', 'lelet', 'masuk', 'ke', 'server']"
+Aneka tv,1,"masih gak bisa login, blank putih teruuss",2026-03-02 15:24:32,masih gak bisa login blank putih teruuss,"['masih', 'gak', 'bisa', 'login', 'blank', 'putih', 'teruuss']"
+Wawan Priawan,5,aplikasi sangat baik...membantu permudah transaksi...bayar apa aja jd mudah,2026-03-02 15:24:04,aplikasi sangat baikmembantu permudah transaksibayar apa aja jd mudah,"['aplikasi', 'sangat', 'baikmembantu', 'permudah', 'transaksibayar', 'apa', 'aja', 'jd', 'mudah']"
+Fira Ashter,5,menyenangkan sat set untuk gen z kayak aku 😅😭,2026-03-02 15:16:39,menyenangkan sat set untuk gen z kayak aku ,"['menyenangkan', 'sat', 'set', 'untuk', 'gen', 'z', 'kayak', 'aku']"
+Ahmad toalib,5,mantap,2026-03-02 15:10:12,mantap,['mantap']
+Jane indrawati Lameanda,5,terbaik,2026-03-02 15:09:01,terbaik,['terbaik']
+belvikifli kiflibelfi,5,memudahkan,2026-03-02 15:02:04,memudahkan,['memudahkan']
+M Halik,5,semua urusan jadi sangat mudah tinggal pencet selesai urusan 👍👍👍,2026-03-02 15:01:24,semua urusan jadi sangat mudah tinggal pencet selesai urusan ,"['semua', 'urusan', 'jadi', 'sangat', 'mudah', 'tinggal', 'pencet', 'selesai', 'urusan']"
+riko hardidinata,5,mantap,2026-03-02 14:58:38,mantap,['mantap']
+nyoman wiyanti,2,"setelah sy download kenapa tidak bisa dibuka,? mohon diperbaiki kedepannya",2026-03-02 14:55:38,setelah sy download kenapa tidak bisa dibuka mohon diperbaiki kedepannya,"['setelah', 'sy', 'download', 'kenapa', 'tidak', 'bisa', 'dibuka', 'mohon', 'diperbaiki', 'kedepannya']"
+Surya Rian,1,limit penarikan tunai terlalu sedikit harus ngulang berkali kali,2026-03-02 14:55:23,limit penarikan tunai terlalu sedikit harus ngulang berkali kali,"['limit', 'penarikan', 'tunai', 'terlalu', 'sedikit', 'harus', 'ngulang', 'berkali', 'kali']"
+aryo wiwoho,5,mudah dan lengkap pemakaiannya,2026-03-02 14:54:41,mudah dan lengkap pemakaiannya,"['mudah', 'dan', 'lengkap', 'pemakaiannya']"
+RUDIYATI,5,Bagus dan membantu Jadi mudah ga pake ribet,2026-03-02 14:52:31,bagus dan membantu jadi mudah ga pake ribet,"['bagus', 'dan', 'membantu', 'jadi', 'mudah', 'ga', 'pake', 'ribet']"
+Arya Sandi Kurniawan,5,sangat membantu saya,2026-03-02 14:51:43,sangat membantu saya,"['sangat', 'membantu', 'saya']"
+Calya Mungil,5,oke,2026-03-02 14:43:46,oke,['oke']
+Darti Darti,5,gampang dan cepat praktis,2026-03-02 14:41:59,gampang dan cepat praktis,"['gampang', 'dan', 'cepat', 'praktis']"
+FENDY SUMAYOW,1,"Aplikasi bodoh gue udh verifikasi muka gak jadi"" apalah brimo aplikasi bodoh",2026-03-02 14:36:40,aplikasi bodoh gue udh verifikasi muka gak jadi apalah brimo aplikasi bodoh,"['aplikasi', 'bodoh', 'gue', 'udh', 'verifikasi', 'muka', 'gak', 'jadi', 'apalah', 'brimo', 'aplikasi', 'bodoh']"
+Muhammad Rendi Zaelani Hidayat,4,"lumayan lancar semuanya sihh enak lah buat harian, saya kasih bintang 4 dulu azza",2026-03-02 14:32:55,lumayan lancar semuanya sihh enak lah buat harian saya kasih bintang  dulu azza,"['lumayan', 'lancar', 'semuanya', 'sihh', 'enak', 'lah', 'buat', 'harian', 'saya', 'kasih', 'bintang', 'dulu', 'azza']"
+Aan Sutantiyo,5,ok bange,2026-03-02 14:30:19,ok bange,"['ok', 'bange']"
+Munandar Baru,5,proses cepat dan lancar tanpa lendala,2026-03-02 14:29:32,proses cepat dan lancar tanpa lendala,"['proses', 'cepat', 'dan', 'lancar', 'tanpa', 'lendala']"
+Subeidi Jagalan,4,Baik,2026-03-02 14:25:26,baik,['baik']
+Allfaris Wellikin,5,bagus,2026-03-02 14:25:19,bagus,['bagus']
+Bagus Santoso,1,kejadian bln Agustus 2025.mantri nya gelapin uang blokiran 2x angsuran.udh ketemu kepala cabangnya ktnya TDK mau tanggung jawab.sampe skrg ga ada kejelasan,2026-03-02 14:24:34,kejadian bln agustus mantri nya gelapin uang blokiran x angsuranudh ketemu kepala cabangnya ktnya tdk mau tanggung jawabsampe skrg ga ada kejelasan,"['kejadian', 'bln', 'agustus', 'mantri', 'nya', 'gelapin', 'uang', 'blokiran', 'x', 'angsuranudh', 'ketemu', 'kepala', 'cabangnya', 'ktnya', 'tdk', 'mau', 'tanggung', 'jawabsampe', 'skrg', 'ga', 'ada', 'kejelasan']"
+Agungmulyo Taufiq,5,ok,2026-03-02 14:13:08,ok,['ok']
+Lasrita Efriyanti,5,"hallo kk knp ya smpai skrg brimo ku GK bisa di buka, padahal aplikasi ini sgt membantu TPI saya kecewa skli gak bisa di buka padahal dh hapus cache dan mood pesawat juga sm tetap ngebleng dari biru tiba2 lgsung putih",2026-03-02 14:09:58,hallo kk knp ya smpai skrg brimo ku gk bisa di buka padahal aplikasi ini sgt membantu tpi saya kecewa skli gak bisa di buka padahal dh hapus cache dan mood pesawat juga sm tetap ngebleng dari biru tiba lgsung putih,"['hallo', 'kk', 'knp', 'ya', 'smpai', 'skrg', 'brimo', 'ku', 'gk', 'bisa', 'di', 'buka', 'padahal', 'aplikasi', 'ini', 'sgt', 'membantu', 'tpi', 'saya', 'kecewa', 'skli', 'gak', 'bisa', 'di', 'buka', 'padahal', 'dh', 'hapus', 'cache', 'dan', 'mood', 'pesawat', 'juga', 'sm', 'tetap', 'ngebleng', 'dari', 'biru', 'tiba', 'lgsung', 'putih']"
+Reflin Sitompul,5,👍👍,2026-03-02 14:09:36,,[]
+Heri Mandai,5,nice,2026-03-02 14:09:19,nice,['nice']
+Mistar Star93,5,kenapa aplikasi brimo saya di bisa di buka? pas di buka layar nya putih mohon bantuannya,2026-03-02 14:07:46,kenapa aplikasi brimo saya di bisa di buka pas di buka layar nya putih mohon bantuannya,"['kenapa', 'aplikasi', 'brimo', 'saya', 'di', 'bisa', 'di', 'buka', 'pas', 'di', 'buka', 'layar', 'nya', 'putih', 'mohon', 'bantuannya']"
+Bunda,5,dengan brimo transaksi apapun sangat mudah,2026-03-02 14:05:42,dengan brimo transaksi apapun sangat mudah,"['dengan', 'brimo', 'transaksi', 'apapun', 'sangat', 'mudah']"
+Citra wana,5,mantap,2026-03-02 14:05:24,mantap,['mantap']
+Freyzhe Anastasia,1,"setiap mau masuk aplikasi selalu disuruh masukin otp sama scan ktp padahal sebelumnya udah, hadeh kalau lagi kepepet pusing juga kayak gini",2026-03-02 14:02:45,setiap mau masuk aplikasi selalu disuruh masukin otp sama scan ktp padahal sebelumnya udah hadeh kalau lagi kepepet pusing juga kayak gini,"['setiap', 'mau', 'masuk', 'aplikasi', 'selalu', 'disuruh', 'masukin', 'otp', 'sama', 'scan', 'ktp', 'padahal', 'sebelumnya', 'udah', 'hadeh', 'kalau', 'lagi', 'kepepet', 'pusing', 'juga', 'kayak', 'gini']"
+Steven Elly,5,"hallo brimo, ini kenapa ya untuk menu pembayaran cicilan finance yang sudah terdaftar tidak dapat di akses, saat mau ngecek cicilan ada notif ""nomor yang anda masukkan salah, mohon periksa kembali"" tolong dibantu kendalanya",2026-03-02 14:00:41,hallo brimo ini kenapa ya untuk menu pembayaran cicilan finance yang sudah terdaftar tidak dapat di akses saat mau ngecek cicilan ada notif nomor yang anda masukkan salah mohon periksa kembali tolong dibantu kendalanya,"['hallo', 'brimo', 'ini', 'kenapa', 'ya', 'untuk', 'menu', 'pembayaran', 'cicilan', 'finance', 'yang', 'sudah', 'terdaftar', 'tidak', 'dapat', 'di', 'akses', 'saat', 'mau', 'ngecek', 'cicilan', 'ada', 'notif', 'nomor', 'yang', 'anda', 'masukkan', 'salah', 'mohon', 'periksa', 'kembali', 'tolong', 'dibantu', 'kendalanya']"
+Asep Aden,5,gacorr,2026-03-02 13:59:01,gacorr,['gacorr']
+Fadila Kairunisa,5,bagus sekali,2026-03-02 13:51:19,bagus sekali,"['bagus', 'sekali']"
+Murdan iff,5,tidak bikin ribet,2026-03-02 13:51:17,tidak bikin ribet,"['tidak', 'bikin', 'ribet']"
+sadut bleck,5,mantap,2026-03-02 13:50:23,mantap,['mantap']
+Nurul Hidayah,5,proses mudah dan sangat membantu 🙏,2026-03-02 13:43:01,proses mudah dan sangat membantu ,"['proses', 'mudah', 'dan', 'sangat', 'membantu']"
+BU EMI Lesta lestari,5,mudah terpercaya dan aman,2026-03-02 13:35:02,mudah terpercaya dan aman,"['mudah', 'terpercaya', 'dan', 'aman']"
+aemfoaive (AF),1,"saya mau login, pas foto KTP aman, tapi pas verifikasi wajah ada kesalahan sistem. kesalahan sistem nya nggak cuma 1 kali, tapi sampai 3 kali. saya login nggak cuma di hp tapi juga di tab hasilnya sama. di hp katanya koneksi jaringan buruk, padahal nggak, bahkan pake data internet tetep sama. sekarang karna udah dibuat login berulang akhirnya kena peringatan terlalu banyak login. gimana sih brimo? gajelas.",2026-03-02 13:32:35,saya mau login pas foto ktp aman tapi pas verifikasi wajah ada kesalahan sistem kesalahan sistem nya nggak cuma  kali tapi sampai  kali saya login nggak cuma di hp tapi juga di tab hasilnya sama di hp katanya koneksi jaringan buruk padahal nggak bahkan pake data internet tetep sama sekarang karna udah dibuat login berulang akhirnya kena peringatan terlalu banyak login gimana sih brimo gajelas,"['saya', 'mau', 'login', 'pas', 'foto', 'ktp', 'aman', 'tapi', 'pas', 'verifikasi', 'wajah', 'ada', 'kesalahan', 'sistem', 'kesalahan', 'sistem', 'nya', 'nggak', 'cuma', 'kali', 'tapi', 'sampai', 'kali', 'saya', 'login', 'nggak', 'cuma', 'di', 'hp', 'tapi', 'juga', 'di', 'tab', 'hasilnya', 'sama', 'di', 'hp', 'katanya', 'koneksi', 'jaringan', 'buruk', 'padahal', 'nggak', 'bahkan', 'pake', 'data', 'internet', 'tetep', 'sama', 'sekarang', 'karna', 'udah', 'dibuat', 'login', 'berulang', 'akhirnya', 'kena', 'peringatan', 'terlalu', 'banyak', 'login', 'gimana', 'sih', 'brimo', 'gajelas']"
+Pondok Pondok,5,ok,2026-03-02 13:30:59,ok,['ok']
+I Gede Sadia UtamaYT,1,"Delay, proses lama",2026-03-02 13:22:22,delay proses lama,"['delay', 'proses', 'lama']"
+madhan putra14,4,Good,2026-03-02 13:20:28,good,['good']
+Dimas Fernando,5,min tolong brimo saya kok gabisa masuk udh 2 kali kek gini min pas masuk mental masuk mental,2026-03-02 13:17:36,min tolong brimo saya kok gabisa masuk udh  kali kek gini min pas masuk mental masuk mental,"['min', 'tolong', 'brimo', 'saya', 'kok', 'gabisa', 'masuk', 'udh', 'kali', 'kek', 'gini', 'min', 'pas', 'masuk', 'mental', 'masuk', 'mental']"
+Novie Suganda,5,top mantep,2026-03-02 13:12:04,top mantep,"['top', 'mantep']"
+Suardi,5,"sudah cukup baik,,membuat tiap transaksi lebih mudah",2026-03-02 13:10:00,sudah cukup baikmembuat tiap transaksi lebih mudah,"['sudah', 'cukup', 'baikmembuat', 'tiap', 'transaksi', 'lebih', 'mudah']"
+Chairani Salsabila,5,top,2026-03-02 13:06:01,top,['top']
+Sri Utami,5,mudah digunakan untuk bertransaksi...🙏,2026-03-02 13:05:15,mudah digunakan untuk bertransaksi,"['mudah', 'digunakan', 'untuk', 'bertransaksi']"
+Zaky Wahyu,5,keren...,2026-03-02 13:02:45,keren,['keren']
+Anggi Oktaviani,5,mantap,2026-03-02 13:01:49,mantap,['mantap']
+bad badtz-maru,5,memudahkan,2026-03-02 12:59:18,memudahkan,['memudahkan']
+Najwa Son,5,bagus,2026-03-02 12:58:22,bagus,['bagus']
+Trimawan Azmi,5,sangat baik untuk setiap transaksi,2026-03-02 12:56:10,sangat baik untuk setiap transaksi,"['sangat', 'baik', 'untuk', 'setiap', 'transaksi']"
+Soja Lase,5,top,2026-03-02 12:56:02,top,['top']
+sarman amang longi,4,4 dulu,2026-03-02 12:54:00, dulu,['dulu']
+Agus Gunawan,5,sangat membantu sekali bisa transaksi dimana saja.,2026-03-02 12:52:56,sangat membantu sekali bisa transaksi dimana saja,"['sangat', 'membantu', 'sekali', 'bisa', 'transaksi', 'dimana', 'saja']"
+khadafi Satria,5,Error mulu,2026-03-02 12:52:49,error mulu,"['error', 'mulu']"
+Hasrul Lhulu,5,sangat membantu,2026-03-02 12:52:45,sangat membantu,"['sangat', 'membantu']"
+Mr. Baso,5,Bermanfaat,2026-03-02 12:50:30,bermanfaat,['bermanfaat']
+Rizkiseptian Adipratama,1,"saldo tiba tiba ilang di brimo, padahal ga bisa login, sekalinya bisa login, uang udah ditransfer ke orang lain, gokil juga brimo ya",2026-03-02 12:43:08,saldo tiba tiba ilang di brimo padahal ga bisa login sekalinya bisa login uang udah ditransfer ke orang lain gokil juga brimo ya,"['saldo', 'tiba', 'tiba', 'ilang', 'di', 'brimo', 'padahal', 'ga', 'bisa', 'login', 'sekalinya', 'bisa', 'login', 'uang', 'udah', 'ditransfer', 'ke', 'orang', 'lain', 'gokil', 'juga', 'brimo', 'ya']"
+Syalom Manis,5,ini knpaa brimo smkin ksini klo buka apk.nya suka lamaaa..ngebug..pdhal baru di update..bukanya mlah simpel jdi lamaa,2026-03-02 12:39:09,ini knpaa brimo smkin ksini klo buka apknya suka lamaaangebugpdhal baru di updatebukanya mlah simpel jdi lamaa,"['ini', 'knpaa', 'brimo', 'smkin', 'ksini', 'klo', 'buka', 'apknya', 'suka', 'lamaaangebugpdhal', 'baru', 'di', 'updatebukanya', 'mlah', 'simpel', 'jdi', 'lamaa']"
+pt Werdi,3,sering tidak bisa dibuka aplikasinya,2026-03-02 12:38:41,sering tidak bisa dibuka aplikasinya,"['sering', 'tidak', 'bisa', 'dibuka', 'aplikasinya']"
+Alwi Qosim,5,mudah,2026-03-02 12:37:35,mudah,['mudah']
+Izhaq 79,5,ok,2026-03-02 12:35:33,ok,['ok']
+Adam Adam,5,biar yg berbicara Pokonya oke dah,2026-03-02 12:32:21,biar yg berbicara pokonya oke dah,"['biar', 'yg', 'berbicara', 'pokonya', 'oke', 'dah']"
+Marseldian Pratama,2,hallo kak.. saya pengguna BRIMO sudah beberapa tahun. baru kali ini Brimo saya tidak bisa log in sampai 1 bulan.. mohon untuk dibantu.,2026-03-02 12:31:47,hallo kak saya pengguna brimo sudah beberapa tahun baru kali ini brimo saya tidak bisa log in sampai  bulan mohon untuk dibantu,"['hallo', 'kak', 'saya', 'pengguna', 'brimo', 'sudah', 'beberapa', 'tahun', 'baru', 'kali', 'ini', 'brimo', 'saya', 'tidak', 'bisa', 'log', 'in', 'sampai', 'bulan', 'mohon', 'untuk', 'dibantu']"
+Muhamad Ilmi,5,"Pelayanan sangat baik, dan kami sangat terbantu sekali, terimakasih,, 🙏",2026-03-02 12:31:11,pelayanan sangat baik dan kami sangat terbantu sekali terimakasih ,"['pelayanan', 'sangat', 'baik', 'dan', 'kami', 'sangat', 'terbantu', 'sekali', 'terimakasih']"
+Haris Haris,5,menyenangkan dan praktis,2026-03-02 12:30:51,menyenangkan dan praktis,"['menyenangkan', 'dan', 'praktis']"
+Adrinnapis Syafira,1,lama lama bikin kesal tolong diperbaiki kalo gak dibuka 2 hari layar putih blank harus instal ulang lagi capek dehhhh,2026-03-02 12:28:44,lama lama bikin kesal tolong diperbaiki kalo gak dibuka  hari layar putih blank harus instal ulang lagi capek dehhhh,"['lama', 'lama', 'bikin', 'kesal', 'tolong', 'diperbaiki', 'kalo', 'gak', 'dibuka', 'hari', 'layar', 'putih', 'blank', 'harus', 'instal', 'ulang', 'lagi', 'capek', 'dehhhh']"
+Budiman Budiyansah,5,sangat membantu,2026-03-02 12:26:42,sangat membantu,"['sangat', 'membantu']"
+Bani Naura,5,memuaskan aplikasi nya,2026-03-02 12:24:50,memuaskan aplikasi nya,"['memuaskan', 'aplikasi', 'nya']"
+Rizki Agustian,5,sangat baik,2026-03-02 12:19:39,sangat baik,"['sangat', 'baik']"
+Mrzen Penjen,5,bagus,2026-03-02 12:16:54,bagus,['bagus']
+Nuryam Ruslin,5,sangat menbantu,2026-03-02 12:15:03,sangat menbantu,"['sangat', 'menbantu']"
+24 Novananda Purwahita,5,okela,2026-03-02 12:14:51,okela,['okela']
+Vera Gopo,4,aplikasi nya bagus bisa untuk transfer byar apa pun tapi klau ke dana sering banget error!!,2026-03-02 12:14:31,aplikasi nya bagus bisa untuk transfer byar apa pun tapi klau ke dana sering banget error,"['aplikasi', 'nya', 'bagus', 'bisa', 'untuk', 'transfer', 'byar', 'apa', 'pun', 'tapi', 'klau', 'ke', 'dana', 'sering', 'banget', 'error']"
+Marwan Sukses,5,oke,2026-03-02 12:14:10,oke,['oke']
+Rikha Elshaarawy,5,bagus pokonnya,2026-03-02 12:13:26,bagus pokonnya,"['bagus', 'pokonnya']"
+Yusman Benge,5,semoga kedepan potongannya lebih kecil lagi,2026-03-02 12:09:31,semoga kedepan potongannya lebih kecil lagi,"['semoga', 'kedepan', 'potongannya', 'lebih', 'kecil', 'lagi']"
+Ilham Pratama,5,sangat bagus dan memudahkan untuk bertransaksi,2026-03-02 12:09:14,sangat bagus dan memudahkan untuk bertransaksi,"['sangat', 'bagus', 'dan', 'memudahkan', 'untuk', 'bertransaksi']"
+Lamawai,5,sangat memudahkan,2026-03-02 12:08:57,sangat memudahkan,"['sangat', 'memudahkan']"
+novita sari dewi,5,"mantap, dengan BRIMo segalanya jadi lancar dan mudah...",2026-03-02 12:08:50,mantap dengan brimo segalanya jadi lancar dan mudah,"['mantap', 'dengan', 'brimo', 'segalanya', 'jadi', 'lancar', 'dan', 'mudah']"
+Septian Rinaldi,4,memudahkan nasabah untuk bertransaksi,2026-03-02 12:07:35,memudahkan nasabah untuk bertransaksi,"['memudahkan', 'nasabah', 'untuk', 'bertransaksi']"
+Feri Hidayat,5,sangat membantu sekali trima kasih brimo,2026-03-02 12:07:20,sangat membantu sekali trima kasih brimo,"['sangat', 'membantu', 'sekali', 'trima', 'kasih', 'brimo']"
+Salsa Salsa,3,brimo ku buram terus tidak bisa di buka,2026-03-02 12:06:55,brimo ku buram terus tidak bisa di buka,"['brimo', 'ku', 'buram', 'terus', 'tidak', 'bisa', 'di', 'buka']"
+Yusuf Rerfiana,2,setiap buka brimo gk prnah bs sllu instal lg udh 3 kali instal lg in mau d buka gk bs lg,2026-03-02 12:03:21,setiap buka brimo gk prnah bs sllu instal lg udh  kali instal lg in mau d buka gk bs lg,"['setiap', 'buka', 'brimo', 'gk', 'prnah', 'bs', 'sllu', 'instal', 'lg', 'udh', 'kali', 'instal', 'lg', 'in', 'mau', 'd', 'buka', 'gk', 'bs', 'lg']"
+GOXMET TRIO,5,sangat membantu sekali,2026-03-02 11:59:59,sangat membantu sekali,"['sangat', 'membantu', 'sekali']"
+Andi Adel,5,sangat baik,2026-03-02 11:59:52,sangat baik,"['sangat', 'baik']"
+Uphy Kelyombar,5,bagus asu,2026-03-02 11:59:27,bagus asu,"['bagus', 'asu']"
+Jantaka Hanta yuda,5,Mantap Brimo,2026-03-02 11:56:48,mantap brimo,"['mantap', 'brimo']"
+Ny. Setyani,5,"aplikasi yang sangat membantu, , selama pemakaian belum ada kendala...",2026-03-02 11:56:17,aplikasi yang sangat membantu  selama pemakaian belum ada kendala,"['aplikasi', 'yang', 'sangat', 'membantu', 'selama', 'pemakaian', 'belum', 'ada', 'kendala']"
+Ridho Prasetyo,2,sinyal bagus tapi gak bisa di buka aplikasinya bikin emosiii,2026-03-02 11:55:24,sinyal bagus tapi gak bisa di buka aplikasinya bikin emosiii,"['sinyal', 'bagus', 'tapi', 'gak', 'bisa', 'di', 'buka', 'aplikasinya', 'bikin', 'emosiii']"
+rohadi haryanto,5,nice,2026-03-02 11:54:25,nice,['nice']
+Prandino L. Tobing,1,lemot,2026-03-02 11:53:28,lemot,['lemot']
+Irsyadul Badry,1,apaan ini baru download ga bisa di buka,2026-03-02 11:53:12,apaan ini baru download ga bisa di buka,"['apaan', 'ini', 'baru', 'download', 'ga', 'bisa', 'di', 'buka']"
+Roslina Harahap,4,lebih gampang dan aman,2026-03-02 11:53:07,lebih gampang dan aman,"['lebih', 'gampang', 'dan', 'aman']"
+Edy Ruhiadi,5,bagus lancar untuk transaksi di brimo,2026-03-02 11:52:55,bagus lancar untuk transaksi di brimo,"['bagus', 'lancar', 'untuk', 'transaksi', 'di', 'brimo']"
+Rama Qois Masrur,1,kenapa sih brimo ngk bsa login,2026-03-02 11:52:46,kenapa sih brimo ngk bsa login,"['kenapa', 'sih', 'brimo', 'ngk', 'bsa', 'login']"
+Edi Junaedi,5,wah saya baru nyobain apk ini ternyata gampang banget cara pakainya banyak ke amanannya terjaga 2 langkah pasword dan pin mantap deh ga nyesel instal aplikasi ini cara transfernya juga gampang pokonya nih aplikasi membantu banget,2026-03-02 11:50:24,wah saya baru nyobain apk ini ternyata gampang banget cara pakainya banyak ke amanannya terjaga  langkah pasword dan pin mantap deh ga nyesel instal aplikasi ini cara transfernya juga gampang pokonya nih aplikasi membantu banget,"['wah', 'saya', 'baru', 'nyobain', 'apk', 'ini', 'ternyata', 'gampang', 'banget', 'cara', 'pakainya', 'banyak', 'ke', 'amanannya', 'terjaga', 'langkah', 'pasword', 'dan', 'pin', 'mantap', 'deh', 'ga', 'nyesel', 'instal', 'aplikasi', 'ini', 'cara', 'transfernya', 'juga', 'gampang', 'pokonya', 'nih', 'aplikasi', 'membantu', 'banget']"
+Moh Nurul Ardiansyah,1,"sampah beban,gabisa login mulu,udh direstar,udh dihapus+ download ulang tetep mentok gak bisa login",2026-03-02 11:48:58,sampah bebangabisa login muluudh direstarudh dihapus download ulang tetep mentok gak bisa login,"['sampah', 'bebangabisa', 'login', 'muluudh', 'direstarudh', 'dihapus', 'download', 'ulang', 'tetep', 'mentok', 'gak', 'bisa', 'login']"
+Munassar Munassar,5,Mantap,2026-03-02 11:48:51,mantap,['mantap']
+Raikal Alfatih,3,ribet bnaget log innya susah masuk,2026-03-02 11:48:46,ribet bnaget log innya susah masuk,"['ribet', 'bnaget', 'log', 'innya', 'susah', 'masuk']"
+Novan Aditya,2,"sering error knp ya , jaringan bagus tapi knp tidak bisa akses",2026-03-02 11:46:08,sering error knp ya  jaringan bagus tapi knp tidak bisa akses,"['sering', 'error', 'knp', 'ya', 'jaringan', 'bagus', 'tapi', 'knp', 'tidak', 'bisa', 'akses']"
+Aresha Shakila,5,memudahkan untuk transaksi,2026-03-02 11:45:41,memudahkan untuk transaksi,"['memudahkan', 'untuk', 'transaksi']"
+Yanuwar Akhmad,2,sering banget error kalo mau transaksi padahal sinyal bagus aja,2026-03-02 11:43:32,sering banget error kalo mau transaksi padahal sinyal bagus aja,"['sering', 'banget', 'error', 'kalo', 'mau', 'transaksi', 'padahal', 'sinyal', 'bagus', 'aja']"
+Aidil Azhar,5,mantap,2026-03-02 11:42:13,mantap,['mantap']
+ALVIN CANDRA AGUS PURNAMA,1,"eror mulu dah, gabisa transfer gara² eror",2026-03-02 11:40:10,eror mulu dah gabisa transfer gara eror,"['eror', 'mulu', 'dah', 'gabisa', 'transfer', 'gara', 'eror']"
+Andre Saputra,5,lumayan bagus,2026-03-02 11:39:53,lumayan bagus,"['lumayan', 'bagus']"
+Skpe,1,udah di update malah kagak bisa di buka aplikasi apaan ini..,2026-03-02 11:38:49,udah di update malah kagak bisa di buka aplikasi apaan ini,"['udah', 'di', 'update', 'malah', 'kagak', 'bisa', 'di', 'buka', 'aplikasi', 'apaan', 'ini']"
+Ari Pradana,1,tingkatkan lagi kepedulian terhadap pengaduan nasabah,2026-03-02 11:37:16,tingkatkan lagi kepedulian terhadap pengaduan nasabah,"['tingkatkan', 'lagi', 'kepedulian', 'terhadap', 'pengaduan', 'nasabah']"
+Qwerty 1234,1,tingkatkan lagi kecepatan pelayanan pengaduanya,2026-03-02 11:36:40,tingkatkan lagi kecepatan pelayanan pengaduanya,"['tingkatkan', 'lagi', 'kecepatan', 'pelayanan', 'pengaduanya']"
+Ari Pradana,1,kasus lama selesai sudah 13 hari sejak pelaporan,2026-03-02 11:35:40,kasus lama selesai sudah  hari sejak pelaporan,"['kasus', 'lama', 'selesai', 'sudah', 'hari', 'sejak', 'pelaporan']"
+Duwi Winarni,5,oke,2026-03-02 11:34:13,oke,['oke']
+yogi wijayanto,5,"Berguna disaat terdesak, terima kasih",2026-03-02 11:33:55,berguna disaat terdesak terima kasih,"['berguna', 'disaat', 'terdesak', 'terima', 'kasih']"
+Weripang23 Weripang23,5,sangat mudah dan gampang,2026-03-02 11:32:23,sangat mudah dan gampang,"['sangat', 'mudah', 'dan', 'gampang']"
+eni sustyaningsih,5,sebagai pertama transfer uang sangat cepat,2026-03-02 11:32:08,sebagai pertama transfer uang sangat cepat,"['sebagai', 'pertama', 'transfer', 'uang', 'sangat', 'cepat']"
+Ari Pradana,1,sudah 13 hari kasus saya ga selesai saldo terdebit namun pembayaran gagal sampai sekarang pengaduan pengembalian saldo saya belum selesai,2026-03-02 11:31:05,sudah  hari kasus saya ga selesai saldo terdebit namun pembayaran gagal sampai sekarang pengaduan pengembalian saldo saya belum selesai,"['sudah', 'hari', 'kasus', 'saya', 'ga', 'selesai', 'saldo', 'terdebit', 'namun', 'pembayaran', 'gagal', 'sampai', 'sekarang', 'pengaduan', 'pengembalian', 'saldo', 'saya', 'belum', 'selesai']"
+Ali Rofiq,5,lebih mudah tanpa ribet .,2026-03-02 11:30:12,lebih mudah tanpa ribet ,"['lebih', 'mudah', 'tanpa', 'ribet']"
+Horidatun Nadifah,5,bagus.,2026-03-02 11:26:48,bagus,['bagus']
+Ayu Vivo,5,ok,2026-03-02 11:24:43,ok,['ok']
+Qolbuiman Sejati (Iman),5,Mudah di manfaatkan,2026-03-02 11:20:54,mudah di manfaatkan,"['mudah', 'di', 'manfaatkan']"
+Rizky sugiana,1,kenapa brimo sekarang jadi susah log in mau transaksi malah nyusahin.. ng blank terus... tolonglah perbaikan nya di maksimalkan biar lebih makin terbantu dengan kbutuhan transaksi yg lebih cepat..,2026-03-02 11:20:16,kenapa brimo sekarang jadi susah log in mau transaksi malah nyusahin ng blank terus tolonglah perbaikan nya di maksimalkan biar lebih makin terbantu dengan kbutuhan transaksi yg lebih cepat,"['kenapa', 'brimo', 'sekarang', 'jadi', 'susah', 'log', 'in', 'mau', 'transaksi', 'malah', 'nyusahin', 'ng', 'blank', 'terus', 'tolonglah', 'perbaikan', 'nya', 'di', 'maksimalkan', 'biar', 'lebih', 'makin', 'terbantu', 'dengan', 'kbutuhan', 'transaksi', 'yg', 'lebih', 'cepat']"
+Suyono Pyon,5,oke terimakasih untuk semua produk layanan nya...,2026-03-02 11:16:57,oke terimakasih untuk semua produk layanan nya,"['oke', 'terimakasih', 'untuk', 'semua', 'produk', 'layanan', 'nya']"
+Aples Billi,1,"Makin parah sihhh Sebelum nya aman aman saja,sekarang sudah makin parah,lama kelamaan jadi takut punya payrol disini MASALAHNYA KALAU TIDAK DI BLOKIR UANG NYA PASTI KEHILANGAN UANG NYA 🤦🏾‍♂️",2026-03-02 11:16:51,makin parah sihhh sebelum nya aman aman sajasekarang sudah makin parahlama kelamaan jadi takut punya payrol disini masalahnya kalau tidak di blokir uang nya pasti kehilangan uang nya ,"['makin', 'parah', 'sihhh', 'sebelum', 'nya', 'aman', 'aman', 'sajasekarang', 'sudah', 'makin', 'parahlama', 'kelamaan', 'jadi', 'takut', 'punya', 'payrol', 'disini', 'masalahnya', 'kalau', 'tidak', 'di', 'blokir', 'uang', 'nya', 'pasti', 'kehilangan', 'uang', 'nya']"
+Deden Gimin,5,mantap👍👍👍,2026-03-02 11:13:28,mantap,['mantap']
+Haikal Engkos,5,baik,2026-03-02 11:13:01,baik,['baik']
+Kartiko Priyo,4,not bad laaah,2026-03-02 11:04:41,not bad laaah,"['not', 'bad', 'laaah']"
+Tatang Ismaill,5,mantap meski saya baru belajar,2026-03-02 11:04:28,mantap meski saya baru belajar,"['mantap', 'meski', 'saya', 'baru', 'belajar']"
+raskya,3,lagi dalam proses.tau bagus atau g,2026-03-02 10:58:08,lagi dalam prosestau bagus atau g,"['lagi', 'dalam', 'prosestau', 'bagus', 'atau', 'g']"
+Akbar Sulistyo,5,kenapasi kalo sambil telfon brimo gk bisa dipake hadeh,2026-03-02 10:57:08,kenapasi kalo sambil telfon brimo gk bisa dipake hadeh,"['kenapasi', 'kalo', 'sambil', 'telfon', 'brimo', 'gk', 'bisa', 'dipake', 'hadeh']"
+Novi puji Setyaningsih,5,memudahkan aplikasi nya makasih semoga selalu memuaskan upgrade nya,2026-03-02 10:57:07,memudahkan aplikasi nya makasih semoga selalu memuaskan upgrade nya,"['memudahkan', 'aplikasi', 'nya', 'makasih', 'semoga', 'selalu', 'memuaskan', 'upgrade', 'nya']"
+Yunita Wahyu,5,praktis,2026-03-02 10:56:55,praktis,['praktis']
+Riyadi Adi,5,sangat baik,2026-03-02 10:54:48,sangat baik,"['sangat', 'baik']"
+Diah Riska,5,mempermudah transaksi,2026-03-02 10:52:11,mempermudah transaksi,"['mempermudah', 'transaksi']"
+Ulil Amri,5,mantap,2026-03-02 10:49:28,mantap,['mantap']
+Ali Almunjamil_9397,5,memuaskan,2026-03-02 10:49:01,memuaskan,['memuaskan']
+D ito,1,"Makin ancur aja, pas update, ngeblank",2026-03-02 10:48:39,makin ancur aja pas update ngeblank,"['makin', 'ancur', 'aja', 'pas', 'update', 'ngeblank']"
+Arul 1st,1,ngapa susah amat dibukanya si,2026-03-02 10:46:01,ngapa susah amat dibukanya si,"['ngapa', 'susah', 'amat', 'dibukanya', 'si']"
+Ammar Hafidz,5,good folll,2026-03-02 10:45:48,good folll,"['good', 'folll']"
+Zaujati nafilah,5,baik sekali,2026-03-02 10:40:59,baik sekali,"['baik', 'sekali']"
+candra setiyawati084,5,Sangat membantu,2026-03-02 10:39:24,sangat membantu,"['sangat', 'membantu']"
+eni andayani,5,pelayanan cepat. tranfer juga cepat,2026-03-02 10:36:45,pelayanan cepat tranfer juga cepat,"['pelayanan', 'cepat', 'tranfer', 'juga', 'cepat']"
+Maro Sebastian,1,tolong dong aplikasinya gak bisa buka brimo pada saat telfonan/komunikasi.😒😒,2026-03-02 10:36:05,tolong dong aplikasinya gak bisa buka brimo pada saat telfonankomunikasi,"['tolong', 'dong', 'aplikasinya', 'gak', 'bisa', 'buka', 'brimo', 'pada', 'saat', 'telfonankomunikasi']"
+Khauliahh1112 Putri,5,mantap,2026-03-02 10:35:56,mantap,['mantap']
+Dedi onches,5,mantap,2026-03-02 10:26:52,mantap,['mantap']
+NGOPI2,5,bagus lah,2026-03-02 10:26:50,bagus lah,"['bagus', 'lah']"
+Yoseva handayani,5,sangat membantu,2026-03-02 10:23:42,sangat membantu,"['sangat', 'membantu']"
+Rasumbut,1,emng kayak taik gak bisa verifikasi,2026-03-02 10:20:54,emng kayak taik gak bisa verifikasi,"['emng', 'kayak', 'taik', 'gak', 'bisa', 'verifikasi']"
+Tedjo Kusuma,5,Akunnya sering hilang di layar jadi tiap mau buka harus buka aplikasi dan login lagi,2026-03-02 10:19:52,akunnya sering hilang di layar jadi tiap mau buka harus buka aplikasi dan login lagi,"['akunnya', 'sering', 'hilang', 'di', 'layar', 'jadi', 'tiap', 'mau', 'buka', 'harus', 'buka', 'aplikasi', 'dan', 'login', 'lagi']"
+Aaliya AFARA,5,baik,2026-03-02 10:17:06,baik,['baik']
+mahatma dewantoro,2,"tlp cal center sampe 6menit nunggu, mau laporan penipuan, pulsa habis duluan, padahal antrean pertama",2026-03-02 10:08:55,tlp cal center sampe menit nunggu mau laporan penipuan pulsa habis duluan padahal antrean pertama,"['tlp', 'cal', 'center', 'sampe', 'menit', 'nunggu', 'mau', 'laporan', 'penipuan', 'pulsa', 'habis', 'duluan', 'padahal', 'antrean', 'pertama']"
+Mistini 123,5,satpam way panji sangat ramah membuat aplikasi birimo,2026-03-02 10:05:57,satpam way panji sangat ramah membuat aplikasi birimo,"['satpam', 'way', 'panji', 'sangat', 'ramah', 'membuat', 'aplikasi', 'birimo']"
+Ihwan Udin,5,memudahkan dalam setiap transaksi keuangan,2026-03-02 10:02:22,memudahkan dalam setiap transaksi keuangan,"['memudahkan', 'dalam', 'setiap', 'transaksi', 'keuangan']"
+Iyin Ciling,4,transaksi jadi lebih mudah,2026-03-02 10:00:25,transaksi jadi lebih mudah,"['transaksi', 'jadi', 'lebih', 'mudah']"
+Su hendri,5,sangat memmbantu..tapi hacker di bkacklist habis ya boss,2026-03-02 09:59:39,sangat memmbantutapi hacker di bkacklist habis ya boss,"['sangat', 'memmbantutapi', 'hacker', 'di', 'bkacklist', 'habis', 'ya', 'boss']"
+Saif Ibrahim,5,oke,2026-03-02 09:59:14,oke,['oke']
+Grasella Surbakti,5,bagus banget,2026-03-02 09:58:57,bagus banget,"['bagus', 'banget']"
+Agus Imam,5,"Sangat Membantu, Mempermudah Segala Hal, Semoga Konsisten, Makasih..",2026-03-02 09:58:01,sangat membantu mempermudah segala hal semoga konsisten makasih,"['sangat', 'membantu', 'mempermudah', 'segala', 'hal', 'semoga', 'konsisten', 'makasih']"
+Dwi Lestari,4,bagus,2026-03-02 09:55:54,bagus,['bagus']
+gagit laksi,1,aplikasi brimo sering lock sendiri proses transaksi jg lambat lemot payah,2026-03-02 09:55:05,aplikasi brimo sering lock sendiri proses transaksi jg lambat lemot payah,"['aplikasi', 'brimo', 'sering', 'lock', 'sendiri', 'proses', 'transaksi', 'jg', 'lambat', 'lemot', 'payah']"
+Hidayatus,1,"aplikasi monyet, puasa puasa bikinnnnnn kesel aja luuuuu. Dibuka putiihhh muluu, kebelet chindo lu hahhhhhhhh",2026-03-02 09:49:17,aplikasi monyet puasa puasa bikinnnnnn kesel aja luuuuu dibuka putiihhh muluu kebelet chindo lu hahhhhhhhh,"['aplikasi', 'monyet', 'puasa', 'puasa', 'bikinnnnnn', 'kesel', 'aja', 'luuuuu', 'dibuka', 'putiihhh', 'muluu', 'kebelet', 'chindo', 'lu', 'hahhhhhhhh']"
+Novi Sari,5,ok bagus,2026-03-02 09:47:32,ok bagus,"['ok', 'bagus']"
+Thomas tomi pratama,5,good apk,2026-03-02 09:46:04,good apk,"['good', 'apk']"
+Zubaidah saragih,1,"Aplikasi ccd, semua pengguna mempunyai kendala yg sama",2026-03-02 09:45:16,aplikasi ccd semua pengguna mempunyai kendala yg sama,"['aplikasi', 'ccd', 'semua', 'pengguna', 'mempunyai', 'kendala', 'yg', 'sama']"
+Cakopik Aja,5,sangat membantu,2026-03-02 09:44:15,sangat membantu,"['sangat', 'membantu']"
+Ferinus Zega,5,bagus,2026-03-02 09:43:38,bagus,['bagus']
+Fajriyah Zainuddin Usman,5,pake brimo amat sangat membantu banget . terima ksh,2026-03-02 09:43:17,pake brimo amat sangat membantu banget  terima ksh,"['pake', 'brimo', 'amat', 'sangat', 'membantu', 'banget', 'terima', 'ksh']"
+Sri Lestari,5,"trimakasih pak satpam ganteng,yg nma nya supiono sudah mmbntu permudah transaksi saya.",2026-03-02 09:37:28,trimakasih pak satpam gantengyg nma nya supiono sudah mmbntu permudah transaksi saya,"['trimakasih', 'pak', 'satpam', 'gantengyg', 'nma', 'nya', 'supiono', 'sudah', 'mmbntu', 'permudah', 'transaksi', 'saya']"
+Nur & jasri,5,mantaaaapppp,2026-03-02 09:36:55,mantaaaapppp,['mantaaaapppp']
+Hendra Putra,5,sangat bagus,2026-03-02 09:35:00,sangat bagus,"['sangat', 'bagus']"
+kholif asbiansyah,5,oke mantap pembukaan rekening nya cepat sekali,2026-03-02 09:30:00,oke mantap pembukaan rekening nya cepat sekali,"['oke', 'mantap', 'pembukaan', 'rekening', 'nya', 'cepat', 'sekali']"
+sitti fatima,5,sangat suka,2026-03-02 09:28:01,sangat suka,"['sangat', 'suka']"
+Adi Mustiadi,5,simple aplikasi mantab,2026-03-02 09:22:53,simple aplikasi mantab,"['simple', 'aplikasi', 'mantab']"
+Leo Lebriansyah,1,bikin kecewa banget aplikasi brimo udh masukin id sama password udh masukin kode otp sama scan KTP pas di scan wajah gak bisa masuk ke mbaking ya parah emang aplikasi ya kelewatan banget,2026-03-02 09:22:12,bikin kecewa banget aplikasi brimo udh masukin id sama password udh masukin kode otp sama scan ktp pas di scan wajah gak bisa masuk ke mbaking ya parah emang aplikasi ya kelewatan banget,"['bikin', 'kecewa', 'banget', 'aplikasi', 'brimo', 'udh', 'masukin', 'id', 'sama', 'password', 'udh', 'masukin', 'kode', 'otp', 'sama', 'scan', 'ktp', 'pas', 'di', 'scan', 'wajah', 'gak', 'bisa', 'masuk', 'ke', 'mbaking', 'ya', 'parah', 'emang', 'aplikasi', 'ya', 'kelewatan', 'banget']"
+Pipik Hidayat,2,ga bs di buka mana mau transaksi...rese nh brimo payah,2026-03-02 09:18:10,ga bs di buka mana mau transaksirese nh brimo payah,"['ga', 'bs', 'di', 'buka', 'mana', 'mau', 'transaksirese', 'nh', 'brimo', 'payah']"
+Zaky zayn,4,baik,2026-03-02 09:14:57,baik,['baik']
+Asura Nouval,5,Baik,2026-03-02 09:11:16,baik,['baik']
+Abdul Jalil,5,good,2026-03-02 09:10:46,good,['good']
+Aly Rahman,5,bagus,2026-03-02 09:07:54,bagus,['bagus']
+agia zanara,5,ok,2026-03-02 09:06:39,ok,['ok']
+Liaaa Hiaa,4,sangat membantu,2026-03-02 09:03:39,sangat membantu,"['sangat', 'membantu']"
+Dian Novitasari,5,bagus aja,2026-03-02 08:58:48,bagus aja,"['bagus', 'aja']"
+Hela Nurfatwa,5,bagus dan lebih gampang,2026-03-02 08:57:20,bagus dan lebih gampang,"['bagus', 'dan', 'lebih', 'gampang']"
+Server Wangunjaya,1,"saldo sering di hold terus pernah setoran cicilan di tarik Doble pengembalian lama, sekalinya pengembalian saldo di tahan tidak bisa transaksi, pas di cek lagi saldo kembali di tarik, mau hapus rekening kalau kaya gini",2026-03-02 08:57:17,saldo sering di hold terus pernah setoran cicilan di tarik doble pengembalian lama sekalinya pengembalian saldo di tahan tidak bisa transaksi pas di cek lagi saldo kembali di tarik mau hapus rekening kalau kaya gini,"['saldo', 'sering', 'di', 'hold', 'terus', 'pernah', 'setoran', 'cicilan', 'di', 'tarik', 'doble', 'pengembalian', 'lama', 'sekalinya', 'pengembalian', 'saldo', 'di', 'tahan', 'tidak', 'bisa', 'transaksi', 'pas', 'di', 'cek', 'lagi', 'saldo', 'kembali', 'di', 'tarik', 'mau', 'hapus', 'rekening', 'kalau', 'kaya', 'gini']"
+Yunfi,4,"Kenapa setiap saya membuka aplikasi selalu meminta verifikasi data diri, sangat membuat tidak nyaman harus verifikasi berulang kali. Bagaimana solusi untuk masalah saya?",2026-03-02 08:54:17,kenapa setiap saya membuka aplikasi selalu meminta verifikasi data diri sangat membuat tidak nyaman harus verifikasi berulang kali bagaimana solusi untuk masalah saya,"['kenapa', 'setiap', 'saya', 'membuka', 'aplikasi', 'selalu', 'meminta', 'verifikasi', 'data', 'diri', 'sangat', 'membuat', 'tidak', 'nyaman', 'harus', 'verifikasi', 'berulang', 'kali', 'bagaimana', 'solusi', 'untuk', 'masalah', 'saya']"
+Sri Rahayu,5,enak pemakaian nya,2026-03-02 08:52:31,enak pemakaian nya,"['enak', 'pemakaian', 'nya']"
+Pespri sembiring Sembiring,5,mantap,2026-03-02 08:49:10,mantap,['mantap']
+Dede sulaeman,4,lumayan,2026-03-02 08:48:10,lumayan,['lumayan']
+Purnama Wirawan,5,trimakasih BRI mobile banking yg selalu melayani nasabahnya dengan Baik cepat tanpa ribet,2026-03-02 08:45:40,trimakasih bri mobile banking yg selalu melayani nasabahnya dengan baik cepat tanpa ribet,"['trimakasih', 'bri', 'mobile', 'banking', 'yg', 'selalu', 'melayani', 'nasabahnya', 'dengan', 'baik', 'cepat', 'tanpa', 'ribet']"
+Indra Wan,5,sangat membantu dan mudah,2026-03-02 08:44:48,sangat membantu dan mudah,"['sangat', 'membantu', 'dan', 'mudah']"
+Anggi Wulandari,5,ok,2026-03-02 08:44:41,ok,['ok']
+Riadi Prabowo,5,bagus,2026-03-02 08:40:57,bagus,['bagus']
+Deki Apriantoni,1,aplikasi nya ada. setelah di buka BRimo tdk bs terbukak. hanya layar hp nya putih aja. setelah di bukak.,2026-03-02 08:33:47,aplikasi nya ada setelah di buka brimo tdk bs terbukak hanya layar hp nya putih aja setelah di bukak,"['aplikasi', 'nya', 'ada', 'setelah', 'di', 'buka', 'brimo', 'tdk', 'bs', 'terbukak', 'hanya', 'layar', 'hp', 'nya', 'putih', 'aja', 'setelah', 'di', 'bukak']"
+Andi Burhanuddin Abdullah,5,Awalnya tdk mudah... Foto Selfy berulang.. mungkin puluhan kali karena tidak fokus wajah senyumnya. Brimo mantap.,2026-03-02 08:23:34,awalnya tdk mudah foto selfy berulang mungkin puluhan kali karena tidak fokus wajah senyumnya brimo mantap,"['awalnya', 'tdk', 'mudah', 'foto', 'selfy', 'berulang', 'mungkin', 'puluhan', 'kali', 'karena', 'tidak', 'fokus', 'wajah', 'senyumnya', 'brimo', 'mantap']"
+Dian woto,4,kena apa akun brimo ga bisa di buka... selalu brimo ga nanggapi???,2026-03-02 08:22:11,kena apa akun brimo ga bisa di buka selalu brimo ga nanggapi,"['kena', 'apa', 'akun', 'brimo', 'ga', 'bisa', 'di', 'buka', 'selalu', 'brimo', 'ga', 'nanggapi']"
+ahmadmaulana kencong,5,mudah cepat praktis,2026-03-02 08:19:08,mudah cepat praktis,"['mudah', 'cepat', 'praktis']"
+Rusman Mubarok (Rusman),5,baru pke lumayan ok lh,2026-03-02 08:18:48,baru pke lumayan ok lh,"['baru', 'pke', 'lumayan', 'ok', 'lh']"
+Ari Wibowo,5,wirah suwiasta,2026-03-02 08:17:23,wirah suwiasta,"['wirah', 'suwiasta']"
+CURVA SUD PSS SLEMAN,5,mudah buat transaksi,2026-03-02 08:10:39,mudah buat transaksi,"['mudah', 'buat', 'transaksi']"
+Hendri klo bisa nya sama denah nya Om Hen,3,tolong di perbaiki saya login g bisa trs harus donlot lg suruh prpikasih lg Lah.tolong di perbaik,2026-03-02 08:10:26,tolong di perbaiki saya login g bisa trs harus donlot lg suruh prpikasih lg lahtolong di perbaik,"['tolong', 'di', 'perbaiki', 'saya', 'login', 'g', 'bisa', 'trs', 'harus', 'donlot', 'lg', 'suruh', 'prpikasih', 'lg', 'lahtolong', 'di', 'perbaik']"
+Yayu Magho,1,"setiap kali mau transaksi pake brimo harus verivikasi dulu,kira cuma Skali ternyata setiap kali mau transaksi harus verivikasi.sangat merepotkan",2026-03-02 08:01:17,setiap kali mau transaksi pake brimo harus verivikasi dulukira cuma skali ternyata setiap kali mau transaksi harus verivikasisangat merepotkan,"['setiap', 'kali', 'mau', 'transaksi', 'pake', 'brimo', 'harus', 'verivikasi', 'dulukira', 'cuma', 'skali', 'ternyata', 'setiap', 'kali', 'mau', 'transaksi', 'harus', 'verivikasisangat', 'merepotkan']"
+Arsagaisa 76,5,bagus,2026-03-02 08:01:01,bagus,['bagus']
+Ari Iskandar,1,tolong updt brimo kali ini jngan di bikin ribet setiap mau masuk login brimo harus verifikasi data terus apalagi g bisa berulang2 kali verfikaainya tolong di buat seperti versi sebelumnya aja,2026-03-02 07:59:27,tolong updt brimo kali ini jngan di bikin ribet setiap mau masuk login brimo harus verifikasi data terus apalagi g bisa berulang kali verfikaainya tolong di buat seperti versi sebelumnya aja,"['tolong', 'updt', 'brimo', 'kali', 'ini', 'jngan', 'di', 'bikin', 'ribet', 'setiap', 'mau', 'masuk', 'login', 'brimo', 'harus', 'verifikasi', 'data', 'terus', 'apalagi', 'g', 'bisa', 'berulang', 'kali', 'verfikaainya', 'tolong', 'di', 'buat', 'seperti', 'versi', 'sebelumnya', 'aja']"
+nashirudin,4,suka sh tp sayangnya GK nambah 2 uangnya,2026-03-02 07:55:15,suka sh tp sayangnya gk nambah  uangnya,"['suka', 'sh', 'tp', 'sayangnya', 'gk', 'nambah', 'uangnya']"
+Mar Rini,5,"sejauh ini aman, mudah digunakan untuk sy yg gaptek",2026-03-02 07:54:20,sejauh ini aman mudah digunakan untuk sy yg gaptek,"['sejauh', 'ini', 'aman', 'mudah', 'digunakan', 'untuk', 'sy', 'yg', 'gaptek']"
+Inengah Suwitra,5,mengirim uang dengan BRIMO mudah dan cepat serta aman.,2026-03-02 07:52:19,mengirim uang dengan brimo mudah dan cepat serta aman,"['mengirim', 'uang', 'dengan', 'brimo', 'mudah', 'dan', 'cepat', 'serta', 'aman']"
+Nurhasandi Bae123,5,mantap adanya ini transver jdi mudah,2026-03-02 07:48:01,mantap adanya ini transver jdi mudah,"['mantap', 'adanya', 'ini', 'transver', 'jdi', 'mudah']"
+Kartini dG kanang,5,sangat mudah dan mempermudah dalam segala layanan transaksi 🙏⭐⭐⭐⭐⭐,2026-03-02 07:41:35,sangat mudah dan mempermudah dalam segala layanan transaksi ,"['sangat', 'mudah', 'dan', 'mempermudah', 'dalam', 'segala', 'layanan', 'transaksi']"
+Alifun Rizky,5,"Dengan menggunakan aplikasi brimo, semua transaksi keuangan jadi lancar",2026-03-02 07:34:37,dengan menggunakan aplikasi brimo semua transaksi keuangan jadi lancar,"['dengan', 'menggunakan', 'aplikasi', 'brimo', 'semua', 'transaksi', 'keuangan', 'jadi', 'lancar']"
+Irfan Irjaya,5,cepat dan akurat BRI semakin maju,2026-03-02 07:29:11,cepat dan akurat bri semakin maju,"['cepat', 'dan', 'akurat', 'bri', 'semakin', 'maju']"
+Yudi Winarto,4,"lebih mudah dlm transaksi, terima kasih brimo",2026-03-02 07:27:34,lebih mudah dlm transaksi terima kasih brimo,"['lebih', 'mudah', 'dlm', 'transaksi', 'terima', 'kasih', 'brimo']"
+Lisdor Gultom,1,aplikasi brimo..per 3 bln harus..mendem load...dan daftar ulang...capek deh...,2026-03-02 07:27:00,aplikasi brimoper  bln harusmendem loaddan daftar ulangcapek deh,"['aplikasi', 'brimoper', 'bln', 'harusmendem', 'loaddan', 'daftar', 'ulangcapek', 'deh']"
+Nunungirawan Nunung,5,bagus dan mudah,2026-03-02 07:26:14,bagus dan mudah,"['bagus', 'dan', 'mudah']"
+muhamad jono,5,mantap,2026-03-02 07:20:54,mantap,['mantap']
+Ahmad Kasim,5,aplikasi yang bagus untuk transfer atau pembelian pulsa,2026-03-02 07:11:02,aplikasi yang bagus untuk transfer atau pembelian pulsa,"['aplikasi', 'yang', 'bagus', 'untuk', 'transfer', 'atau', 'pembelian', 'pulsa']"
+Putu Suyasnika,5,kereeennn daah brimo,2026-03-02 07:07:53,kereeennn daah brimo,"['kereeennn', 'daah', 'brimo']"
+Hery Santoso,5,terbaik,2026-03-02 07:00:37,terbaik,['terbaik']
+wong Jawa,5,simpel,2026-03-02 06:52:43,simpel,['simpel']
+Ferdy Lede,5,👍,2026-03-02 06:48:50,,[]
+Suno Baydho3,5,oke,2026-03-02 06:46:12,oke,['oke']
+Agus Hadi Santosa W.,5,ok,2026-03-02 06:22:57,ok,['ok']
+Lidya Syawaliyah Nurrohmah,4,sangat mudah bermanfaat dalam melakukan transaksi bagus banget,2026-03-02 06:21:25,sangat mudah bermanfaat dalam melakukan transaksi bagus banget,"['sangat', 'mudah', 'bermanfaat', 'dalam', 'melakukan', 'transaksi', 'bagus', 'banget']"
+Arin Jaya Travel,5,dgn memakai BRImo semua jadi mudah&cepat saya tdk perlu lagi cek saldo&tranfer ke bank/ATM cukup di HP saja mks BRImo,2026-03-02 06:09:45,dgn memakai brimo semua jadi mudahcepat saya tdk perlu lagi cek saldotranfer ke bankatm cukup di hp saja mks brimo,"['dgn', 'memakai', 'brimo', 'semua', 'jadi', 'mudahcepat', 'saya', 'tdk', 'perlu', 'lagi', 'cek', 'saldotranfer', 'ke', 'bankatm', 'cukup', 'di', 'hp', 'saja', 'mks', 'brimo']"
+No Name No name,5,so far so good,2026-03-02 06:00:10,so far so good,"['so', 'far', 'so', 'good']"
+yanto Supriyadi,3,"maaf ini,KL mau suruh update langsung aja update GX mau masuk login layar putih mlh keluar LG,benahi LG lah coba🙏",2026-03-02 05:55:05,maaf inikl mau suruh update langsung aja update gx mau masuk login layar putih mlh keluar lgbenahi lg lah coba,"['maaf', 'inikl', 'mau', 'suruh', 'update', 'langsung', 'aja', 'update', 'gx', 'mau', 'masuk', 'login', 'layar', 'putih', 'mlh', 'keluar', 'lgbenahi', 'lg', 'lah', 'coba']"
+Dedeng Setiawan,5,gampang dan mudah untuk transaksi,2026-03-02 05:47:17,gampang dan mudah untuk transaksi,"['gampang', 'dan', 'mudah', 'untuk', 'transaksi']"
+Venus man zega Zega,5,hai kk kenapa brimo saya begini dari mulai pertama pakai bagus sdh lama saya pakai di buka keluar biru tidak lama lagi keluar layar putih kok begitu sdh berapa kali saya instal tapi tetap seperti itu mohon batuanya,2026-03-02 05:42:22,hai kk kenapa brimo saya begini dari mulai pertama pakai bagus sdh lama saya pakai di buka keluar biru tidak lama lagi keluar layar putih kok begitu sdh berapa kali saya instal tapi tetap seperti itu mohon batuanya,"['hai', 'kk', 'kenapa', 'brimo', 'saya', 'begini', 'dari', 'mulai', 'pertama', 'pakai', 'bagus', 'sdh', 'lama', 'saya', 'pakai', 'di', 'buka', 'keluar', 'biru', 'tidak', 'lama', 'lagi', 'keluar', 'layar', 'putih', 'kok', 'begitu', 'sdh', 'berapa', 'kali', 'saya', 'instal', 'tapi', 'tetap', 'seperti', 'itu', 'mohon', 'batuanya']"
+Putri Kinanti,5,simpel,2026-03-02 05:31:34,simpel,['simpel']
+Isma Dominic,1,pelayanan kurang,2026-03-02 05:21:54,pelayanan kurang,"['pelayanan', 'kurang']"
+Tenggernesia Adventure,5,sangat membantu,2026-03-02 05:21:38,sangat membantu,"['sangat', 'membantu']"
+jono slp,5,"sangat mantap👍🏻pengamanan aplikasinya, trimakasih atas pengamanannya, tingkatkan terus, apa lagi sekarang jaman era digital, penipuan juga semakin canggih, aplikasi ini juga jangan kalah, itu aja terimakasih",2026-03-02 05:20:02,sangat mantappengamanan aplikasinya trimakasih atas pengamanannya tingkatkan terus apa lagi sekarang jaman era digital penipuan juga semakin canggih aplikasi ini juga jangan kalah itu aja terimakasih,"['sangat', 'mantappengamanan', 'aplikasinya', 'trimakasih', 'atas', 'pengamanannya', 'tingkatkan', 'terus', 'apa', 'lagi', 'sekarang', 'jaman', 'era', 'digital', 'penipuan', 'juga', 'semakin', 'canggih', 'aplikasi', 'ini', 'juga', 'jangan', 'kalah', 'itu', 'aja', 'terimakasih']"
+Bg Jon,5,sangat memudahkan dalam transaksi,2026-03-02 05:09:04,sangat memudahkan dalam transaksi,"['sangat', 'memudahkan', 'dalam', 'transaksi']"
+Rajimin rajimin,5,"brimo nya setiap 3 hari instal trs kalau gak di instal gambarnya,putih doang",2026-03-02 05:06:39,brimo nya setiap  hari instal trs kalau gak di instal gambarnyaputih doang,"['brimo', 'nya', 'setiap', 'hari', 'instal', 'trs', 'kalau', 'gak', 'di', 'instal', 'gambarnyaputih', 'doang']"
+Erik Jeep,2,sudah 2x aplikasi Brimo Begitu Login jadi LAYAR PUTIH semua. padahal Sangat Amat Penting.,2026-03-02 05:04:55,sudah x aplikasi brimo begitu login jadi layar putih semua padahal sangat amat penting,"['sudah', 'x', 'aplikasi', 'brimo', 'begitu', 'login', 'jadi', 'layar', 'putih', 'semua', 'padahal', 'sangat', 'amat', 'penting']"
+Pawonmak Sri,5,sangat baik,2026-03-02 04:38:03,sangat baik,"['sangat', 'baik']"
+Mufti Lanang,2,KOK GA BISA DI TF SIH,2026-03-02 04:32:43,kok ga bisa di tf sih,"['kok', 'ga', 'bisa', 'di', 'tf', 'sih']"
+Iwan Wally,5,saya puas,2026-03-02 04:32:42,saya puas,"['saya', 'puas']"
+Sharul Anwar,1,gak optimal,2026-03-02 04:26:03,gak optimal,"['gak', 'optimal']"
+gun jack,5,"Keren BRImo lah, semua jadi mudah disaat mendadak butuh transaksi finansial dengan BRImo ditangan. terus tingkatkan kualitas pelayanan mu BRImo",2026-03-02 04:18:42,keren brimo lah semua jadi mudah disaat mendadak butuh transaksi finansial dengan brimo ditangan terus tingkatkan kualitas pelayanan mu brimo,"['keren', 'brimo', 'lah', 'semua', 'jadi', 'mudah', 'disaat', 'mendadak', 'butuh', 'transaksi', 'finansial', 'dengan', 'brimo', 'ditangan', 'terus', 'tingkatkan', 'kualitas', 'pelayanan', 'mu', 'brimo']"
+Opp,5,ok,2026-03-02 04:18:19,ok,['ok']
+ayuth channel,5,sangat membantu. transaksi cepat... mudah dan lancar,2026-03-02 03:58:51,sangat membantu transaksi cepat mudah dan lancar,"['sangat', 'membantu', 'transaksi', 'cepat', 'mudah', 'dan', 'lancar']"
+Urip Budiharto,1,"stelah di update dg versi terbaru, tertulis aplikasi tdk kopatibel, gmana solusinya, android sy versi 8.9 dan aplikasi nya versi 2.93",2026-03-02 03:57:23,stelah di update dg versi terbaru tertulis aplikasi tdk kopatibel gmana solusinya android sy versi  dan aplikasi nya versi ,"['stelah', 'di', 'update', 'dg', 'versi', 'terbaru', 'tertulis', 'aplikasi', 'tdk', 'kopatibel', 'gmana', 'solusinya', 'android', 'sy', 'versi', 'dan', 'aplikasi', 'nya', 'versi']"
+Khayla Khey,5,"Assalamualaikum kak, BRImo sy dari kemaren kenapa gak bisa login? Tolong kak ..🙏",2026-03-02 03:02:50,assalamualaikum kak brimo sy dari kemaren kenapa gak bisa login tolong kak ,"['assalamualaikum', 'kak', 'brimo', 'sy', 'dari', 'kemaren', 'kenapa', 'gak', 'bisa', 'login', 'tolong', 'kak']"
+Wawan Mahmudin,5,mantap proses cepat gak pake lama,2026-03-02 02:46:43,mantap proses cepat gak pake lama,"['mantap', 'proses', 'cepat', 'gak', 'pake', 'lama']"
+Ray Raya,5,saya mau ganti rekening jadi simpades gimana caranya,2026-03-02 02:39:20,saya mau ganti rekening jadi simpades gimana caranya,"['saya', 'mau', 'ganti', 'rekening', 'jadi', 'simpades', 'gimana', 'caranya']"
+Agung Prwg,1,nri selalu ketinggalan aplikasi Bank lain sudah pakai IKD,2026-03-02 02:28:00,nri selalu ketinggalan aplikasi bank lain sudah pakai ikd,"['nri', 'selalu', 'ketinggalan', 'aplikasi', 'bank', 'lain', 'sudah', 'pakai', 'ikd']"
+Decky kurniawan,1,"gak efesien, lelet",2026-03-02 02:24:00,gak efesien lelet,"['gak', 'efesien', 'lelet']"
+echo belenk,4,sempurna,2026-03-02 02:16:15,sempurna,['sempurna']
+Ahmad Saepuloh,5,kenapa brimo saya tidak bisa login,2026-03-02 02:05:14,kenapa brimo saya tidak bisa login,"['kenapa', 'brimo', 'saya', 'tidak', 'bisa', 'login']"
+Azka Rima yunus,5,ok,2026-03-02 01:58:39,ok,['ok']
+armada armadapribadi,5,tingkatkan kepercayaan keamanan akun brimo security hamdal fitur baru yg terbaik banyak manfaat lainnya,2026-03-02 01:52:32,tingkatkan kepercayaan keamanan akun brimo security hamdal fitur baru yg terbaik banyak manfaat lainnya,"['tingkatkan', 'kepercayaan', 'keamanan', 'akun', 'brimo', 'security', 'hamdal', 'fitur', 'baru', 'yg', 'terbaik', 'banyak', 'manfaat', 'lainnya']"
+Wandi Toumpur,5,apliksi ini sangat berguna,2026-03-02 01:41:57,apliksi ini sangat berguna,"['apliksi', 'ini', 'sangat', 'berguna']"
+Oji Melati,5,nyaman dan aman,2026-03-02 01:35:53,nyaman dan aman,"['nyaman', 'dan', 'aman']"
+MUHAMAD Yusuf,5,mantappp,2026-03-02 01:34:03,mantappp,['mantappp']
+Andre Febriansyah,5,sangat cocok untuk transaksi atau pun tabungan,2026-03-02 01:29:34,sangat cocok untuk transaksi atau pun tabungan,"['sangat', 'cocok', 'untuk', 'transaksi', 'atau', 'pun', 'tabungan']"
+ulin,5,"layout oke dan mudah dimengerti, blm pernah ada gangguan berarti. lanjutkannn!!",2026-03-02 01:28:39,layout oke dan mudah dimengerti blm pernah ada gangguan berarti lanjutkannn,"['layout', 'oke', 'dan', 'mudah', 'dimengerti', 'blm', 'pernah', 'ada', 'gangguan', 'berarti', 'lanjutkannn']"
+Zainul Arif,5,samgan Mudah Bertransaksi dan Sefty,2026-03-02 01:26:25,samgan mudah bertransaksi dan sefty,"['samgan', 'mudah', 'bertransaksi', 'dan', 'sefty']"
+Rizky Devi,1,kenapa pas diinstal keluar lagi konyol,2026-03-02 00:51:04,kenapa pas diinstal keluar lagi konyol,"['kenapa', 'pas', 'diinstal', 'keluar', 'lagi', 'konyol']"
+saep doank,4,ok,2026-03-02 00:45:32,ok,['ok']
+Yoga Baguz,1,brimo apk busuk erorr terus,2026-03-02 00:44:40,brimo apk busuk erorr terus,"['brimo', 'apk', 'busuk', 'erorr', 'terus']"
+Mak Ntik76,1,kebanyakan drama taiii.... kalian yang salah karena sistem aplikasi tolol ehh malah jadi nunggu 24 jam buat bisa verifikasi lagi....,2026-03-02 00:42:58,kebanyakan drama taiii kalian yang salah karena sistem aplikasi tolol ehh malah jadi nunggu  jam buat bisa verifikasi lagi,"['kebanyakan', 'drama', 'taiii', 'kalian', 'yang', 'salah', 'karena', 'sistem', 'aplikasi', 'tolol', 'ehh', 'malah', 'jadi', 'nunggu', 'jam', 'buat', 'bisa', 'verifikasi', 'lagi']"
+Andrewfp Andrew,5,good,2026-03-02 00:36:40,good,['good']
+Cahya Wahyu,5,ok,2026-03-02 00:36:33,ok,['ok']
+Ratno Timur,5,membantu banget,2026-03-02 00:36:22,membantu banget,"['membantu', 'banget']"
+Erlan Sbastian,5,brimo keren,2026-03-02 00:24:43,brimo keren,"['brimo', 'keren']"
+FN video,5,keren,2026-03-02 00:23:08,keren,['keren']
+Harsen S,5,mantap,2026-03-02 00:17:13,mantap,['mantap']
+Rhony05,5,sangat membantu saya untuk transaksi,2026-03-02 00:14:05,sangat membantu saya untuk transaksi,"['sangat', 'membantu', 'saya', 'untuk', 'transaksi']"
+Lady Roose,1,"aplikasi buruk, sering banget transaksi eror",2026-03-02 00:01:02,aplikasi buruk sering banget transaksi eror,"['aplikasi', 'buruk', 'sering', 'banget', 'transaksi', 'eror']"
+Eka Pra,5,baik,2026-03-01 23:50:50,baik,['baik']
+Muhammad Asrar,5,bagus,2026-03-01 23:43:29,bagus,['bagus']
+Wijiati Tii,5,bagus sekali,2026-03-01 23:25:11,bagus sekali,"['bagus', 'sekali']"
+Yandi Rosyadi,5,okey sip,2026-03-01 23:15:26,okey sip,"['okey', 'sip']"
+Haris Zuares,5,sangat bagus,2026-03-01 23:14:04,sangat bagus,"['sangat', 'bagus']"
+Ica Uci,2,"bantu dong, lupa pasword untuk transfer",2026-03-01 23:12:33,bantu dong lupa pasword untuk transfer,"['bantu', 'dong', 'lupa', 'pasword', 'untuk', 'transfer']"
+muhammad fatoni,5,"aplikasi cepat dan responsif, tampilan menarik dan mudah dipahami",2026-03-01 23:05:51,aplikasi cepat dan responsif tampilan menarik dan mudah dipahami,"['aplikasi', 'cepat', 'dan', 'responsif', 'tampilan', 'menarik', 'dan', 'mudah', 'dipahami']"
+Al Azid Jurohim One,5,Oke nice apk,2026-03-01 23:05:03,oke nice apk,"['oke', 'nice', 'apk']"
+darah simanjuntak,4,kurang,2026-03-01 22:58:12,kurang,['kurang']
+Fella 2708,5,pelayanan yang sangat bagus,2026-03-01 22:55:52,pelayanan yang sangat bagus,"['pelayanan', 'yang', 'sangat', 'bagus']"
+Fajar Arisanto,5,ok punya,2026-03-01 22:55:04,ok punya,"['ok', 'punya']"
+Suryadi Suryadi,1,"huuuuu loading lama banget lo, mendingan gw copot lagi",2026-03-01 22:49:46,huuuuu loading lama banget lo mendingan gw copot lagi,"['huuuuu', 'loading', 'lama', 'banget', 'lo', 'mendingan', 'gw', 'copot', 'lagi']"
+Abdurrohman Soleh,5,mantap,2026-03-01 22:44:14,mantap,['mantap']
+Kismani,5,"mantap, sangat membantu sekali 👍👍👍",2026-03-01 22:38:39,mantap sangat membantu sekali ,"['mantap', 'sangat', 'membantu', 'sekali']"
+Sobintar Sihombing,5,jossss,2026-03-01 22:36:41,jossss,['jossss']
+Vingky Vingky,5,Kka knpa kalu mau kirim ke dana susah?,2026-03-01 22:29:15,kka knpa kalu mau kirim ke dana susah,"['kka', 'knpa', 'kalu', 'mau', 'kirim', 'ke', 'dana', 'susah']"
+Hanifah Hanifah,5,puas dengan brimo,2026-03-01 22:24:25,puas dengan brimo,"['puas', 'dengan', 'brimo']"
+Bambang Heru Rasianto,5,Bener banget,2026-03-01 22:21:16,bener banget,"['bener', 'banget']"
+Armindo Gege,5,sangat membantuu,2026-03-01 22:17:29,sangat membantuu,"['sangat', 'membantuu']"
+EVAN BENINGTON,2,mohon maaf aku uninstal soalnya sudah ngirim kendalanya lewat email sampai sekarang belum ada balasanya dan solusinya,2026-03-01 22:11:32,mohon maaf aku uninstal soalnya sudah ngirim kendalanya lewat email sampai sekarang belum ada balasanya dan solusinya,"['mohon', 'maaf', 'aku', 'uninstal', 'soalnya', 'sudah', 'ngirim', 'kendalanya', 'lewat', 'email', 'sampai', 'sekarang', 'belum', 'ada', 'balasanya', 'dan', 'solusinya']"
+Perto Nela,5,gimana nih ko masuk ke brimo gak bisah sih kak,2026-03-01 22:08:35,gimana nih ko masuk ke brimo gak bisah sih kak,"['gimana', 'nih', 'ko', 'masuk', 'ke', 'brimo', 'gak', 'bisah', 'sih', 'kak']"
+Dude akung,1,"ini kenapa ngeblank putih gak bisa dipake,...gimana sih",2026-03-01 22:07:02,ini kenapa ngeblank putih gak bisa dipakegimana sih,"['ini', 'kenapa', 'ngeblank', 'putih', 'gak', 'bisa', 'dipakegimana', 'sih']"
+ade kusuma,4,sangat bagus,2026-03-01 22:00:44,sangat bagus,"['sangat', 'bagus']"
+KARMIJAN (mijan),5,transaksi sangat mudah,2026-03-01 22:00:05,transaksi sangat mudah,"['transaksi', 'sangat', 'mudah']"
+Akma Akmal,5,sangat bagus,2026-03-01 21:55:43,sangat bagus,"['sangat', 'bagus']"
+Wawan Kurnianto,5,bagus sekali,2026-03-01 21:53:19,bagus sekali,"['bagus', 'sekali']"
+Ardi Jombang,5,BRImo the Besst,2026-03-01 21:51:56,brimo the besst,"['brimo', 'the', 'besst']"
+Safa Nur Khariimah,5,kenapa gak bisa,2026-03-01 21:51:44,kenapa gak bisa,"['kenapa', 'gak', 'bisa']"
+Huri Susanto,3,tidak bisa dibuka,2026-03-01 21:48:22,tidak bisa dibuka,"['tidak', 'bisa', 'dibuka']"
+Yanus Lebo,5,terbaik,2026-03-01 21:38:43,terbaik,['terbaik']
+Anto Bengkel,5,mantap,2026-03-01 21:36:14,mantap,['mantap']
+Ali Bbm,5,baik,2026-03-01 21:33:07,baik,['baik']
+Eka Putri,5,bagus,2026-03-01 21:31:56,bagus,['bagus']
+Pahyuji 89,5,suka,2026-03-01 21:30:06,suka,['suka']
+Budi Apriyanto,5,"saya registrasi ulang brimo tidak bisa padahal sudah konfirmasi ke pihak bank untuk mengganti pake nomor yang aktif.... tujuannya biar akun brimo saya lebih aman sekarang malahan tidak bisa kendala di registrasi nya gagal terus sampai"" cs bank BRI nya bingung sekarang bRiMo susah buat login malahan ribet",2026-03-01 21:25:50,saya registrasi ulang brimo tidak bisa padahal sudah konfirmasi ke pihak bank untuk mengganti pake nomor yang aktif tujuannya biar akun brimo saya lebih aman sekarang malahan tidak bisa kendala di registrasi nya gagal terus sampai cs bank bri nya bingung sekarang brimo susah buat login malahan ribet,"['saya', 'registrasi', 'ulang', 'brimo', 'tidak', 'bisa', 'padahal', 'sudah', 'konfirmasi', 'ke', 'pihak', 'bank', 'untuk', 'mengganti', 'pake', 'nomor', 'yang', 'aktif', 'tujuannya', 'biar', 'akun', 'brimo', 'saya', 'lebih', 'aman', 'sekarang', 'malahan', 'tidak', 'bisa', 'kendala', 'di', 'registrasi', 'nya', 'gagal', 'terus', 'sampai', 'cs', 'bank', 'bri', 'nya', 'bingung', 'sekarang', 'brimo', 'susah', 'buat', 'login', 'malahan', 'ribet']"
+Agus Solikin,5,punyaku gak bisa dibuka,2026-03-01 21:21:02,punyaku gak bisa dibuka,"['punyaku', 'gak', 'bisa', 'dibuka']"
+Komang Setia,5,sangat baik sangat membantu transaksi,2026-03-01 21:20:19,sangat baik sangat membantu transaksi,"['sangat', 'baik', 'sangat', 'membantu', 'transaksi']"
+Iyanganjar Wijaya,5,semuwa jadi midah👍👍,2026-03-01 21:18:37,semuwa jadi midah,"['semuwa', 'jadi', 'midah']"
+ipey Tan,5,makin sini makin bagus,2026-03-01 21:17:21,makin sini makin bagus,"['makin', 'sini', 'makin', 'bagus']"
+Nur Meriana,5,good,2026-03-01 21:11:45,good,['good']
+azizul muiz,5,knp brimo saya suka g ke buka ya..kadang bagus kadang g ke buka,2026-03-01 21:09:44,knp brimo saya suka g ke buka yakadang bagus kadang g ke buka,"['knp', 'brimo', 'saya', 'suka', 'g', 'ke', 'buka', 'yakadang', 'bagus', 'kadang', 'g', 'ke', 'buka']"
+Aqilla Harjo,5,ok mntap,2026-03-01 21:07:12,ok mntap,"['ok', 'mntap']"
+Tomz Byy,5,Hallo .. Brimo kenapa ya setiap kali buka selalu putih .. udah itu saya hapus Dwonlod lagi harus foto ktp trus dan foto muka dan itu trus menerus kyk gtu .. setiap kali buka harus foto ktp am muka ..,2026-03-01 21:06:56,hallo  brimo kenapa ya setiap kali buka selalu putih  udah itu saya hapus dwonlod lagi harus foto ktp trus dan foto muka dan itu trus menerus kyk gtu  setiap kali buka harus foto ktp am muka ,"['hallo', 'brimo', 'kenapa', 'ya', 'setiap', 'kali', 'buka', 'selalu', 'putih', 'udah', 'itu', 'saya', 'hapus', 'dwonlod', 'lagi', 'harus', 'foto', 'ktp', 'trus', 'dan', 'foto', 'muka', 'dan', 'itu', 'trus', 'menerus', 'kyk', 'gtu', 'setiap', 'kali', 'buka', 'harus', 'foto', 'ktp', 'am', 'muka']"
+Hendra Jaya,4,bintang 4 dulu klau makin bagus nanti ku kasih 5😁,2026-03-01 20:59:46,bintang  dulu klau makin bagus nanti ku kasih ,"['bintang', 'dulu', 'klau', 'makin', 'bagus', 'nanti', 'ku', 'kasih']"
+Indra Prasetya,5,nyaman,2026-03-01 20:59:04,nyaman,['nyaman']
+mun faati,5,sangat2 membantu memudahkan transaksi,2026-03-01 20:58:47,sangat membantu memudahkan transaksi,"['sangat', 'membantu', 'memudahkan', 'transaksi']"
+pino pino,5,saya kasih bintang 5 untuk BRIMO,2026-03-01 20:54:13,saya kasih bintang  untuk brimo,"['saya', 'kasih', 'bintang', 'untuk', 'brimo']"
+Bang Lana,5,👍,2026-03-01 20:49:35,,[]
+Agung Kurniawan,5,mantap,2026-03-01 20:47:24,mantap,['mantap']
+Pratiwy,5,Jadi lebih mudah untuk melakukan transaksi ☺️👍,2026-03-01 20:45:11,jadi lebih mudah untuk melakukan transaksi ,"['jadi', 'lebih', 'mudah', 'untuk', 'melakukan', 'transaksi']"
+Sri Onah,5,Membantu 👍👍,2026-03-01 20:39:58,membantu ,['membantu']
+Yanto Nuryanto,1,MASALAH BLANK PUTIH masih lanjut ternyata ....... kecewa kukir sudah bisa...,2026-03-01 20:30:48,masalah blank putih masih lanjut ternyata  kecewa kukir sudah bisa,"['masalah', 'blank', 'putih', 'masih', 'lanjut', 'ternyata', 'kecewa', 'kukir', 'sudah', 'bisa']"
+Shinta Yuanita sari,4,saya mau buat rekening dari brimo gagal terus,2026-03-01 20:29:12,saya mau buat rekening dari brimo gagal terus,"['saya', 'mau', 'buat', 'rekening', 'dari', 'brimo', 'gagal', 'terus']"
+Abu Tholib,5,baik,2026-03-01 20:17:47,baik,['baik']
+wahyu da silva serdadu,5,mantap,2026-03-01 20:08:36,mantap,['mantap']
+Maketek Padang,5,bagaimana cara perolehan akun BRIMO utk partisipasi saham di investasi pasar saham,2026-03-01 20:02:49,bagaimana cara perolehan akun brimo utk partisipasi saham di investasi pasar saham,"['bagaimana', 'cara', 'perolehan', 'akun', 'brimo', 'utk', 'partisipasi', 'saham', 'di', 'investasi', 'pasar', 'saham']"
+Bunga Pertiwi,5,"selama pakai brimo aman dan lancar, solusi ketika malas ngurus atm karna udah ed",2026-03-01 20:02:04,selama pakai brimo aman dan lancar solusi ketika malas ngurus atm karna udah ed,"['selama', 'pakai', 'brimo', 'aman', 'dan', 'lancar', 'solusi', 'ketika', 'malas', 'ngurus', 'atm', 'karna', 'udah', 'ed']"
+Panjoel M,2,"Kenapa Sekarang Apk ini kok kalo d buka selalu Layarnya putih.. Habis itu Langsung keluar sendiri dari Apk, Bisa di buka tp harus di kosongkan datanya & masuk lagi, tp hanya satu kali.. & selalu begitu terus 😔, sementara saya kasih bintang 2 aja",2026-03-01 20:00:13,kenapa sekarang apk ini kok kalo d buka selalu layarnya putih habis itu langsung keluar sendiri dari apk bisa di buka tp harus di kosongkan datanya  masuk lagi tp hanya satu kali  selalu begitu terus  sementara saya kasih bintang  aja,"['kenapa', 'sekarang', 'apk', 'ini', 'kok', 'kalo', 'd', 'buka', 'selalu', 'layarnya', 'putih', 'habis', 'itu', 'langsung', 'keluar', 'sendiri', 'dari', 'apk', 'bisa', 'di', 'buka', 'tp', 'harus', 'di', 'kosongkan', 'datanya', 'masuk', 'lagi', 'tp', 'hanya', 'satu', 'kali', 'selalu', 'begitu', 'terus', 'sementara', 'saya', 'kasih', 'bintang', 'aja']"
+mariani sianturi,5,aplikasi mengapa sering error,2026-03-01 19:59:58,aplikasi mengapa sering error,"['aplikasi', 'mengapa', 'sering', 'error']"
+Oca Cibungsu,1,BRI t##ol..aplikasi ga bisa di buka .. miskin,2026-03-01 19:59:37,bri tolaplikasi ga bisa di buka  miskin,"['bri', 'tolaplikasi', 'ga', 'bisa', 'di', 'buka', 'miskin']"
+Bahtiar Ysf,5,mudah cepat mantap 👍,2026-03-01 19:59:34,mudah cepat mantap ,"['mudah', 'cepat', 'mantap']"
+Awendra Awendra,5,bagus,2026-03-01 19:51:23,bagus,['bagus']
+Kagok Barbar,5,Oke memudahkan transaksi,2026-03-01 19:46:53,oke memudahkan transaksi,"['oke', 'memudahkan', 'transaksi']"
+Balyanur Mustofa159,5,keren,2026-03-01 19:43:56,keren,['keren']
+Heru Trisapto,2,brimo susah diakses. tiap buka aplikasinya selalu keluar layar putih. udah diupdate sama saja tidak ada perubahan.,2026-03-01 19:42:28,brimo susah diakses tiap buka aplikasinya selalu keluar layar putih udah diupdate sama saja tidak ada perubahan,"['brimo', 'susah', 'diakses', 'tiap', 'buka', 'aplikasinya', 'selalu', 'keluar', 'layar', 'putih', 'udah', 'diupdate', 'sama', 'saja', 'tidak', 'ada', 'perubahan']"
+Fer Nan,1,"Brimo BRI Aplikasi Yang Sangat Membantu Untuk Nasabah Bertransaksi, Good Job",2026-03-01 19:41:11,brimo bri aplikasi yang sangat membantu untuk nasabah bertransaksi good job,"['brimo', 'bri', 'aplikasi', 'yang', 'sangat', 'membantu', 'untuk', 'nasabah', 'bertransaksi', 'good', 'job']"
+AdityaEka Putra,2,"Gabisa Login, untuk scan E-KTP nya burem padahal camera jelas jelas normal.",2026-03-01 19:36:48,gabisa login untuk scan ektp nya burem padahal camera jelas jelas normal,"['gabisa', 'login', 'untuk', 'scan', 'ektp', 'nya', 'burem', 'padahal', 'camera', 'jelas', 'jelas', 'normal']"
+Permata Cell,5,ok,2026-03-01 19:36:18,ok,['ok']
+Gelang Saputra,5,sangat 👍,2026-03-01 19:35:36,sangat ,['sangat']
+Suci Amalia Putri_B,1,tidak rekomen bank satu ini selalu bermasalah 1. mesin atm tidak layak pakai 2. uang sobek kok masuk atm 3. bank bri selalu antri dan lama,2026-03-01 19:30:15,tidak rekomen bank satu ini selalu bermasalah  mesin atm tidak layak pakai  uang sobek kok masuk atm  bank bri selalu antri dan lama,"['tidak', 'rekomen', 'bank', 'satu', 'ini', 'selalu', 'bermasalah', 'mesin', 'atm', 'tidak', 'layak', 'pakai', 'uang', 'sobek', 'kok', 'masuk', 'atm', 'bank', 'bri', 'selalu', 'antri', 'dan', 'lama']"
+Muhamad Ridho,5,sangat bermanfaat,2026-03-01 19:29:12,sangat bermanfaat,"['sangat', 'bermanfaat']"
+Prayudha Bachtiar,5,nice info,2026-03-01 19:26:12,nice info,"['nice', 'info']"
+alan dahlan,5,goods zoobss,2026-03-01 19:23:37,goods zoobss,"['goods', 'zoobss']"
+imam pratama,1,ini kenapa sampe sekarang belum bisa loqin terus ya .. aplikasi nambah gak jelas banget .,2026-03-01 19:21:09,ini kenapa sampe sekarang belum bisa loqin terus ya  aplikasi nambah gak jelas banget ,"['ini', 'kenapa', 'sampe', 'sekarang', 'belum', 'bisa', 'loqin', 'terus', 'ya', 'aplikasi', 'nambah', 'gak', 'jelas', 'banget']"
+Cicik Winarti,5,pelayanannya sangat bagus,2026-03-01 19:20:58,pelayanannya sangat bagus,"['pelayanannya', 'sangat', 'bagus']"
+Retno Ayu wulandari,2,jelek bgt mls lah sm brimo setiap mau transfer ke bank lain pasti gabisa hrs nunggu 1 harian pdhl lagi dibutuhkan mls lah,2026-03-01 19:16:19,jelek bgt mls lah sm brimo setiap mau transfer ke bank lain pasti gabisa hrs nunggu  harian pdhl lagi dibutuhkan mls lah,"['jelek', 'bgt', 'mls', 'lah', 'sm', 'brimo', 'setiap', 'mau', 'transfer', 'ke', 'bank', 'lain', 'pasti', 'gabisa', 'hrs', 'nunggu', 'harian', 'pdhl', 'lagi', 'dibutuhkan', 'mls', 'lah']"
+Iwan adis Tiya putra,5,sangat mudah dah simple express,2026-03-01 19:12:58,sangat mudah dah simple express,"['sangat', 'mudah', 'dah', 'simple', 'express']"
+Ervan yuono,5,saya sangat puas dengan BRImo,2026-03-01 19:05:44,saya sangat puas dengan brimo,"['saya', 'sangat', 'puas', 'dengan', 'brimo']"
+Iwanrega Suzuki,5,Sangat Membantu,2026-03-01 19:01:11,sangat membantu,"['sangat', 'membantu']"
+Haura Dasha,5,"Terima ksh atas pelayanannya yang sgt memuaskan, cepat, dan tepat waktu.",2026-03-01 18:52:27,terima ksh atas pelayanannya yang sgt memuaskan cepat dan tepat waktu,"['terima', 'ksh', 'atas', 'pelayanannya', 'yang', 'sgt', 'memuaskan', 'cepat', 'dan', 'tepat', 'waktu']"
+Ashraff,5,sangat bagus,2026-03-01 18:52:20,sangat bagus,"['sangat', 'bagus']"
+MBoy,5,👍,2026-03-01 18:49:27,,[]
+supadi padi,5,oke,2026-03-01 18:45:57,oke,['oke']
+Wahana Wanci,3,sangat berarti,2026-03-01 18:45:36,sangat berarti,"['sangat', 'berarti']"
+Fanny Nyuknyeng,5,baguss,2026-03-01 18:42:02,baguss,['baguss']
+Aditya yesyes,5,sangat mudah digunakan dan membatu..,2026-03-01 18:40:32,sangat mudah digunakan dan membatu,"['sangat', 'mudah', 'digunakan', 'dan', 'membatu']"
+Hadi Sucipto,5,ok,2026-03-01 18:33:06,ok,['ok']
+Sulistiono Sulistiono,5,simpel,2026-03-01 18:30:26,simpel,['simpel']
+Surya Fidaaa,3,biasa,2026-03-01 18:23:46,biasa,['biasa']
+Restu,5,"haloo kak ini kenapa selalu verifikasi ulang, padahal cuma keluar aplikasi dan itu terjadi dalam sehari",2026-03-01 18:21:11,haloo kak ini kenapa selalu verifikasi ulang padahal cuma keluar aplikasi dan itu terjadi dalam sehari,"['haloo', 'kak', 'ini', 'kenapa', 'selalu', 'verifikasi', 'ulang', 'padahal', 'cuma', 'keluar', 'aplikasi', 'dan', 'itu', 'terjadi', 'dalam', 'sehari']"
+Yosefina Maria koten,5,"Hallo brimoo ,saya udh pake brimo udah 1th lbih mau 2 ,tpi baru kali inii saya mendapat kendala saat masuk brimoo tba tba layarnya jadu warna putih semuaaa ,galama hitam ,itu gimnaa ya ? tolong arahannya min 🙏🙏☺",2026-03-01 18:20:52,hallo brimoo saya udh pake brimo udah th lbih mau  tpi baru kali inii saya mendapat kendala saat masuk brimoo tba tba layarnya jadu warna putih semuaaa galama hitam itu gimnaa ya  tolong arahannya min ,"['hallo', 'brimoo', 'saya', 'udh', 'pake', 'brimo', 'udah', 'th', 'lbih', 'mau', 'tpi', 'baru', 'kali', 'inii', 'saya', 'mendapat', 'kendala', 'saat', 'masuk', 'brimoo', 'tba', 'tba', 'layarnya', 'jadu', 'warna', 'putih', 'semuaaa', 'galama', 'hitam', 'itu', 'gimnaa', 'ya', 'tolong', 'arahannya', 'min']"
+Endah Pratiwi,2,"wahai brimo tercinta, tolong benerin qris anda krn saya susah banget ngescan buat bayar qris kirain cuma saya doang, ternyata temen2 saya yg pakai brimo juga kesusahan masalah scan qris yg susah banget",2026-03-01 18:16:10,wahai brimo tercinta tolong benerin qris anda krn saya susah banget ngescan buat bayar qris kirain cuma saya doang ternyata temen saya yg pakai brimo juga kesusahan masalah scan qris yg susah banget,"['wahai', 'brimo', 'tercinta', 'tolong', 'benerin', 'qris', 'anda', 'krn', 'saya', 'susah', 'banget', 'ngescan', 'buat', 'bayar', 'qris', 'kirain', 'cuma', 'saya', 'doang', 'ternyata', 'temen', 'saya', 'yg', 'pakai', 'brimo', 'juga', 'kesusahan', 'masalah', 'scan', 'qris', 'yg', 'susah', 'banget']"
+Cardi Septian,5,bagus mudah di gunakan untuk berbagai transaksi,2026-03-01 18:13:05,bagus mudah di gunakan untuk berbagai transaksi,"['bagus', 'mudah', 'di', 'gunakan', 'untuk', 'berbagai', 'transaksi']"
+Susyanto,1,"aplikasi perbankan paling ribet diantara yg lain, sudah sukses login tetep ngga bisa transfer dan buka kartu terblokir",2026-03-01 18:04:46,aplikasi perbankan paling ribet diantara yg lain sudah sukses login tetep ngga bisa transfer dan buka kartu terblokir,"['aplikasi', 'perbankan', 'paling', 'ribet', 'diantara', 'yg', 'lain', 'sudah', 'sukses', 'login', 'tetep', 'ngga', 'bisa', 'transfer', 'dan', 'buka', 'kartu', 'terblokir']"
+Ade Ruhyana,5,mudah cepat,2026-03-01 18:03:07,mudah cepat,"['mudah', 'cepat']"
+Christian Oxa Putra Perdana,5,mantab anjay,2026-03-01 18:02:23,mantab anjay,"['mantab', 'anjay']"
+Yulius,5,sangat membantu,2026-03-01 17:56:14,sangat membantu,"['sangat', 'membantu']"
+Dede Kusmiati,5,Alhamdulillah sangat membantu saya dengan brimo bisa bertransaksi tanpa harus ke ayam ketik amau tf... bayar BPJS listrik beli pulsa jug aja di mudah.. Terimakasih brimo,2026-03-01 17:50:22,alhamdulillah sangat membantu saya dengan brimo bisa bertransaksi tanpa harus ke ayam ketik amau tf bayar bpjs listrik beli pulsa jug aja di mudah terimakasih brimo,"['alhamdulillah', 'sangat', 'membantu', 'saya', 'dengan', 'brimo', 'bisa', 'bertransaksi', 'tanpa', 'harus', 'ke', 'ayam', 'ketik', 'amau', 'tf', 'bayar', 'bpjs', 'listrik', 'beli', 'pulsa', 'jug', 'aja', 'di', 'mudah', 'terimakasih', 'brimo']"
+Bima Pratama,5,sangat baik,2026-03-01 17:50:18,sangat baik,"['sangat', 'baik']"
+Edi Subianto,1,duit di ATM saya hilang pak /Bu 1.500.000,2026-03-01 17:45:00,duit di atm saya hilang pak bu ,"['duit', 'di', 'atm', 'saya', 'hilang', 'pak', 'bu']"
+Mon Lupi,1,tidak bisa berkata-kata tidak bisa membantu,2026-03-01 17:44:50,tidak bisa berkatakata tidak bisa membantu,"['tidak', 'bisa', 'berkatakata', 'tidak', 'bisa', 'membantu']"
+Toms Nevagivup,5,untuk saat ini cukup baik,2026-03-01 17:43:00,untuk saat ini cukup baik,"['untuk', 'saat', 'ini', 'cukup', 'baik']"
+Aep Saepudin,5,sangat mudah bertransaksi,2026-03-01 17:42:02,sangat mudah bertransaksi,"['sangat', 'mudah', 'bertransaksi']"
+Tomi Ko,5,bagus sangat membantu,2026-03-01 17:37:39,bagus sangat membantu,"['bagus', 'sangat', 'membantu']"
+Eldi Yusmi,5,memudahkan transaksi,2026-03-01 17:07:50,memudahkan transaksi,"['memudahkan', 'transaksi']"
+Yanto Baraenk,5,sangat berguna,2026-03-01 17:06:54,sangat berguna,"['sangat', 'berguna']"
+Budi SF_87,1,"bug parah isi saldo dana berhasil ga ada notif,harus ulang lagi pas diulang berhasil jadi 2x isi anjiiing",2026-03-01 17:03:28,bug parah isi saldo dana berhasil ga ada notifharus ulang lagi pas diulang berhasil jadi x isi anjiiing,"['bug', 'parah', 'isi', 'saldo', 'dana', 'berhasil', 'ga', 'ada', 'notifharus', 'ulang', 'lagi', 'pas', 'diulang', 'berhasil', 'jadi', 'x', 'isi', 'anjiiing']"
+Fany Firdaus (Firdaus),5,oke,2026-03-01 16:58:44,oke,['oke']
+Karlos _aguy,5,sangat membantu sekali,2026-03-01 16:57:37,sangat membantu sekali,"['sangat', 'membantu', 'sekali']"
+Amar Muamar,5,mantap,2026-03-01 16:54:49,mantap,['mantap']
+Muslimin,5,baik,2026-03-01 16:53:49,baik,['baik']
+Jaya Hartono,5,tidak mudah eror,2026-03-01 16:49:05,tidak mudah eror,"['tidak', 'mudah', 'eror']"
+Absar Salim,1,"Jangan pernah mengajukan kredit di BRI, mereka punya reputasi yang buruk dan seringkali menyalahi perjanjian kredit dengan nasabah. Contoh: cicilan yang jatuh tempo di Bulan Februari yang harusnya dana yang dipotong hanya untuk cicilan di Bulan Februari, akan tetapi dipotong juga hingga Maret bahkan pada saat masuk Bulan Maret sudah dipotong lagi untuk April padahal masih di awal Bulan Maret, bagaiman kita mau putar uang untuk usaha kalau semuanya diambil dan dipotong seperti ini??",2026-03-01 16:48:43,jangan pernah mengajukan kredit di bri mereka punya reputasi yang buruk dan seringkali menyalahi perjanjian kredit dengan nasabah contoh cicilan yang jatuh tempo di bulan februari yang harusnya dana yang dipotong hanya untuk cicilan di bulan februari akan tetapi dipotong juga hingga maret bahkan pada saat masuk bulan maret sudah dipotong lagi untuk april padahal masih di awal bulan maret bagaiman kita mau putar uang untuk usaha kalau semuanya diambil dan dipotong seperti ini,"['jangan', 'pernah', 'mengajukan', 'kredit', 'di', 'bri', 'mereka', 'punya', 'reputasi', 'yang', 'buruk', 'dan', 'seringkali', 'menyalahi', 'perjanjian', 'kredit', 'dengan', 'nasabah', 'contoh', 'cicilan', 'yang', 'jatuh', 'tempo', 'di', 'bulan', 'februari', 'yang', 'harusnya', 'dana', 'yang', 'dipotong', 'hanya', 'untuk', 'cicilan', 'di', 'bulan', 'februari', 'akan', 'tetapi', 'dipotong', 'juga', 'hingga', 'maret', 'bahkan', 'pada', 'saat', 'masuk', 'bulan', 'maret', 'sudah', 'dipotong', 'lagi', 'untuk', 'april', 'padahal', 'masih', 'di', 'awal', 'bulan', 'maret', 'bagaiman', 'kita', 'mau', 'putar', 'uang', 'untuk', 'usaha', 'kalau', 'semuanya', 'diambil', 'dan', 'dipotong', 'seperti', 'ini']"
+War Yanto,5,good,2026-03-01 16:43:05,good,['good']
+KHALIK,1,"BRIMO KENAPA ENGGA BISA DI BUKA LAGI,TOLONG DI PERBAIKI SECEPATNYA.!!!!",2026-03-01 16:42:59,brimo kenapa engga bisa di buka lagitolong di perbaiki secepatnya,"['brimo', 'kenapa', 'engga', 'bisa', 'di', 'buka', 'lagitolong', 'di', 'perbaiki', 'secepatnya']"
+muhammadrendi saputra,5,top,2026-03-01 16:42:37,top,['top']
+Deny Kiting,5,sama saya sdh berapa kali ini gk bisa log in begitu masuk brimo hbis tulisan brimo warna putih aja layar Bru tekluar sendiri begitu di download ulang baru bisa setiap mau login pasti download ulang terus saya,2026-03-01 16:38:10,sama saya sdh berapa kali ini gk bisa log in begitu masuk brimo hbis tulisan brimo warna putih aja layar bru tekluar sendiri begitu di download ulang baru bisa setiap mau login pasti download ulang terus saya,"['sama', 'saya', 'sdh', 'berapa', 'kali', 'ini', 'gk', 'bisa', 'log', 'in', 'begitu', 'masuk', 'brimo', 'hbis', 'tulisan', 'brimo', 'warna', 'putih', 'aja', 'layar', 'bru', 'tekluar', 'sendiri', 'begitu', 'di', 'download', 'ulang', 'baru', 'bisa', 'setiap', 'mau', 'login', 'pasti', 'download', 'ulang', 'terus', 'saya']"
+papi bun,5,mantap,2026-03-01 16:32:37,mantap,['mantap']
+Aranza Yahya dharaka,5,keren,2026-03-01 16:26:31,keren,['keren']
+saddam mo,5,terimakasih telah memberikan kemudahan dlm bertran saksi,2026-03-01 16:22:50,terimakasih telah memberikan kemudahan dlm bertran saksi,"['terimakasih', 'telah', 'memberikan', 'kemudahan', 'dlm', 'bertran', 'saksi']"
+Edy mulyadi,1,setiap mau buka aplikasi selalu cuma muncul layar putih tok harus dihapus aplikasi instal laginya isi data lagi. py ki bri ga ono perbaikan sistem po py je smp sekarang kok podo wae brimo dtutup mau bukak lagi cuma muncul layar putih harus hapus brimo trs instal lagi dan seterusnya,2026-03-01 16:22:39,setiap mau buka aplikasi selalu cuma muncul layar putih tok harus dihapus aplikasi instal laginya isi data lagi py ki bri ga ono perbaikan sistem po py je smp sekarang kok podo wae brimo dtutup mau bukak lagi cuma muncul layar putih harus hapus brimo trs instal lagi dan seterusnya,"['setiap', 'mau', 'buka', 'aplikasi', 'selalu', 'cuma', 'muncul', 'layar', 'putih', 'tok', 'harus', 'dihapus', 'aplikasi', 'instal', 'laginya', 'isi', 'data', 'lagi', 'py', 'ki', 'bri', 'ga', 'ono', 'perbaikan', 'sistem', 'po', 'py', 'je', 'smp', 'sekarang', 'kok', 'podo', 'wae', 'brimo', 'dtutup', 'mau', 'bukak', 'lagi', 'cuma', 'muncul', 'layar', 'putih', 'harus', 'hapus', 'brimo', 'trs', 'instal', 'lagi', 'dan', 'seterusnya']"
+Afitalia Rondonuwu,5,mantap,2026-03-01 16:18:44,mantap,['mantap']
+Aldi Ganz,5,mantaaap,2026-03-01 16:04:30,mantaaap,['mantaaap']
+Nur Hasan,5,susah,2026-03-01 16:04:03,susah,['susah']
+Amak Ajaib,5,cepat dan tepat,2026-03-01 15:59:57,cepat dan tepat,"['cepat', 'dan', 'tepat']"
+Sis Weloet,5,Memudahkan transaksi transfer dari rumah,2026-03-01 15:58:42,memudahkan transaksi transfer dari rumah,"['memudahkan', 'transaksi', 'transfer', 'dari', 'rumah']"
+Muhammad Yusup,5,samnagat membantu bertransaksi,2026-03-01 15:57:16,samnagat membantu bertransaksi,"['samnagat', 'membantu', 'bertransaksi']"
+acing Jay Jay jay,5,mntap,2026-03-01 15:53:50,mntap,['mntap']
+Nurul Isna,5,sangat membantu,2026-03-01 15:52:48,sangat membantu,"['sangat', 'membantu']"
+marpram 1967,5,transaksi kebih mudah menggunakan brimo,2026-03-01 15:47:04,transaksi kebih mudah menggunakan brimo,"['transaksi', 'kebih', 'mudah', 'menggunakan', 'brimo']"
+Flooresita Wenno,5,sangat baikk,2026-03-01 15:40:25,sangat baikk,"['sangat', 'baikk']"
+rhmat mhmad_,5,"terima kasih,brimo sudah membantu saya lebih mudah dan nyaman di pakai untuk bertransaksi.",2026-03-01 15:39:01,terima kasihbrimo sudah membantu saya lebih mudah dan nyaman di pakai untuk bertransaksi,"['terima', 'kasihbrimo', 'sudah', 'membantu', 'saya', 'lebih', 'mudah', 'dan', 'nyaman', 'di', 'pakai', 'untuk', 'bertransaksi']"
+al peyank,5,nice apk,2026-03-01 15:37:47,nice apk,"['nice', 'apk']"
+azi saptadi,1,"1 Maret 2026 aplikasi tidak bisa login , tunggu beberapa saat tapi cukup lama sekali ya",2026-03-01 15:34:04, maret  aplikasi tidak bisa login  tunggu beberapa saat tapi cukup lama sekali ya,"['maret', 'aplikasi', 'tidak', 'bisa', 'login', 'tunggu', 'beberapa', 'saat', 'tapi', 'cukup', 'lama', 'sekali', 'ya']"
+suta menggala5,5,"semoga tetap berjaya, dan bisa untuk memudahkan semua orang",2026-03-01 15:19:45,semoga tetap berjaya dan bisa untuk memudahkan semua orang,"['semoga', 'tetap', 'berjaya', 'dan', 'bisa', 'untuk', 'memudahkan', 'semua', 'orang']"
+Amelia Amelia,5,sangat membantu,2026-03-01 15:17:23,sangat membantu,"['sangat', 'membantu']"
+Tu Ban,5,baru pertama nyoba TF pakai brimo alhamdllh ternyata brimo mempermudah setiap kali transaksi,2026-03-01 15:02:23,baru pertama nyoba tf pakai brimo alhamdllh ternyata brimo mempermudah setiap kali transaksi,"['baru', 'pertama', 'nyoba', 'tf', 'pakai', 'brimo', 'alhamdllh', 'ternyata', 'brimo', 'mempermudah', 'setiap', 'kali', 'transaksi']"
+Nur Sakina,5,bagus,2026-03-01 15:02:19,bagus,['bagus']
+Yanto Hanafis,5,mantap,2026-03-01 15:00:00,mantap,['mantap']
+dangtera,5,mantap,2026-03-01 14:58:18,mantap,['mantap']
+Eden Kalemben,1,gangguan terussss....,2026-03-01 14:52:02,gangguan terussss,"['gangguan', 'terussss']"
+Fikri Adamy,5,nice laah di mana mana ada ga susah nyari nya,2026-03-01 14:51:17,nice laah di mana mana ada ga susah nyari nya,"['nice', 'laah', 'di', 'mana', 'mana', 'ada', 'ga', 'susah', 'nyari', 'nya']"
+Vivo V27s,5,sangat mempermudah,2026-03-01 14:49:50,sangat mempermudah,"['sangat', 'mempermudah']"
+Agis Sofyan Nulhakim,5,lancar,2026-03-01 14:47:38,lancar,['lancar']
